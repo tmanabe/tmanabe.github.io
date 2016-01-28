@@ -1,0 +1,19 @@
+ntcir13: >
+    <u>Tomohiro Manabe</u>, Kosetsu Tsukuda, Kazutoshi Umemoto, Yoshiyuki Shoji, Makoto P. Kato,<br />
+    Takehiro Yamamoto, Meng Zhao, Soungwoong Yoon, Hiroaki Ohshima, and Katsumi Tanaka.<br />
+    [Information Extraction based Approach for the NTCIR-10 1CLICK-2 Task](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/1CLICK/07-NTCIR10-1CLICK-TomohiroM.pdf).<br />
+    In _Proc. of NTCIR_, pp. 243-249, 2013.
+vldb15: >
+    <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
+    [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
+    _Proc. of VLDB_, vol. 8, no. 12, pp.1606-1617, 2015.
+        *   [Reference implementation](https://github.com/tmanabe/HEPS)
+        *   [Data set](https://github.com/tmanabe/HEPS-data-set)
+airs15: >
+    <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
+    Heading-Aware Snippet Generation for Web Search.<br />
+    In _Proc. of AIRS_, LNCS, vol. 9460, pp.188-200, 2015 (to appear).
+dbsj16: >
+    <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
+    Heading-Aware Proximity Measure and Its Application to Web Search.<br />
+    _DBSJ Journal_, vol. 14, article no. 2, 2016 (to appear).
