@@ -16,4 +16,5 @@ h1:     '真鍋 知博 (MANABE, Tomohiro) > 全ての論文'
 *   {{ site.data.papers.dbsj16 }}
 <!---
 *   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis<br />（“階層的な見出しブロック構造の分析に基づくWeb検索”）.<br />_Doctoral Thesis_, 2016.
---->
+    * [要旨](http://to_appear.pdf) --->
+*    {{ site.data.papers.webist16 }}

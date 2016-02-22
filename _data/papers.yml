@@ -12,8 +12,15 @@ vldb15: >
 airs15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Heading-Aware Snippet Generation for Web Search.<br />
-    In _Proc. of AIRS_, LNCS, vol. 9460, pp.188-200, 2015 (to appear).
+    In _Proc. of AIRS_, LNCS, vol. 9460, pp.188-200, 2015 (also to appear at [KURENAI](http://repository.kulib.kyoto-u.ac.jp/dspace/)).
+        *   [Results](https://github.com/tmanabe/AIRS15-results)
 dbsj16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
-    Heading-Aware Proximity Measure and Its Application to Web Search.<br />
-    _DBSJ Journal_, vol. 14, article no. 2, 2016 (to appear).
+    [Heading-Aware Proximity Measure and Its Application to Web Search](http://dbsj.org/wp-content/uploads/2016/02/DBSJ14_e_02.pdf).<br />
+    _DBSJ Journal_, vol. 14, article no. 2, 2016.
+        * [Output](https://github.com/tmanabe/DBSJ16-output)
+webist16: >
+    <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
+    Subtopic Ranking Based on Hierarchical Headings.<br />
+    In _Proc. of WEBIST_, 2016 (to appear).
+    <!---    * [Results](https://github.com/tmanabe/WEBIST16-output) --->
