@@ -9,7 +9,5 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *   {{ site.data.papers.vldb15 }}
 *   {{ site.data.papers.airs15 }}
 *   {{ site.data.papers.dbsj16 }}
-<!---
-*   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis<br />_Doctoral Thesis_, 2016.
-    * [Abstract](http://to_appear.pdf) --->
+*   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis.<br />_Doctoral Dissertation_, 2016.
 *    {{ site.data.papers.webist16 }}

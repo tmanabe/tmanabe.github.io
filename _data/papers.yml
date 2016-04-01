@@ -6,7 +6,7 @@ ntcir13: >
 vldb15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
-    _Proc. of VLDB_, vol. 8, no. 12, pp.1606-1617, 2015.
+    _Proc. of VLDB_, vol. 8, no. 12, pp.1606-1617, August 2015.
         *   [Reference implementation](https://github.com/tmanabe/HEPS)
         *   [Data set](https://github.com/tmanabe/HEPS-data-set)
 airs15: >
@@ -17,7 +17,7 @@ airs15: >
 dbsj16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Heading-Aware Proximity Measure and Its Application to Web Search](http://dbsj.org/wp-content/uploads/2016/02/DBSJ14_e_02.pdf).<br />
-    _DBSJ Journal_, vol. 14, article no. 2, 2016.
+    _DBSJ Journal_, vol. 14, article no. 2, March 2016.
         * [Output](https://github.com/tmanabe/DBSJ16-output)
 webist16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />

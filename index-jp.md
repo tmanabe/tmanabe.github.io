@@ -3,19 +3,15 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (MANABE, Tomohiro)'
-timestamp: '最終更新：2016.2.23'
+timestamp: '最終更新：2016.4.1'
 ---
 
-*   [京都大学](http://www.kyoto-u.ac.jp/) [大学院情報学研究科](http://www.i.kyoto-u.ac.jp/) [社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/) 博士後期課程
-    *   指導教員： [田島敬史教授](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/index-jp.html)
-*   同専攻 [社会情報モデル講座](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/) [情報図書館学分野](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/digital_library/)（[田中研究室](http://www.dl.kuis.kyoto-u.ac.jp/)）
-    *   606-8501 京都市左京区吉田本町 京都大学吉田キャンパス 総合研究7号館
-    *   居室：3階307号室
-    *   電話・FAX（学生共通）：075-753-4957
-*   [日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)
-*   [日本データベース学会](http://www.dbsj.org/) 学生会員
-*   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学，2013）
-*   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学，2011）
+*   [ヤフー株式会社](http://docs.yahoo.co.jp/) コーポレート統括本部 人財開発本部
+    *   107-6211 東京都港区赤坂9-7-1 ミッドタウン・タワー
+*   [京都大学](http://www.kyoto-u.ac.jp/)博士（情報学），社会情報学専攻，2016
+*   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），社会情報学専攻，2013
+*   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），情報学科，2011
+*   [日本データベース学会](http://www.dbsj.org/) 正会員
 
 
 ## 研究テーマと主要論文
@@ -37,12 +33,12 @@ timestamp: '最終更新：2016.2.23'
 |2004 (H16). 4. 1|-|2007 (H19). 3. 1|：|[徳島県立城東高等学校](http://joto-hs.tokushima-ec.ed.jp/) 普通科|
 |2007 (H19). 4. 1|-|2011 (H23). 3.24|：|[京都大学](http://www.kyoto-u.ac.jp/) [工学部](http://www.t.kyoto-u.ac.jp/ja) [情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)|
 |2008 (H20). 4. 1|-|2011 (H23). 3.24|：|同学科 [計算機科学コース](http://www.s-im.t.kyoto-u.ac.jp/com/ja)|
-|2010 (H22). 4. 9|-|現在            |：|[京都大学](http://www.kyoto-u.ac.jp/) [大学院情報学研究科](http://www.i.kyoto-u.ac.jp/) [社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)  [社会情報モデル講座](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/) [情報図書館学分野](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/digital_library/) （[田中研究室](http://www.dl.kuis.kyoto-u.ac.jp/)，旧田中・田島研究室）|
-|2010 (H22). 4.12|-|現在            |：|[田島敬史先生](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/index-jp.html)に師事|
+|2010 (H22). 4. 9|-|2016 (H28). 3.23|：|[京都大学](http://www.kyoto-u.ac.jp/) [大学院情報学研究科](http://www.i.kyoto-u.ac.jp/) [社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)  [社会情報モデル講座](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/) [情報図書館学分野](http://www.soc.i.kyoto-u.ac.jp/divisions/social_info_model/digital_library/) （[田中研究室](http://www.dl.kuis.kyoto-u.ac.jp/)，旧田中・田島研究室）|
+|2010 (H22). 4.12|-|2016 (H28). 3. 9|：|[田島敬史先生](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/index-jp.html)に師事|
 |2011 (H23). 4. 1|-|2013 (H25). 3.23|：|同専攻 修士課程|
-|2013 (H25). 4. 1|-|現在            |：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
-|2013 (H25). 4. 1|-|現在            |：|同専攻 博士後期課程|
-
+|2013 (H25). 4. 1|-|2016 (H28). 3.23|：|同専攻 博士後期課程|
+|2013 (H25). 4. 1|-|2016 (H28). 3.31|：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
+|2016 (H28). 4. 1|-|現在            |：|[ヤフー株式会社](http://docs.yahoo.co.jp/) コーポレート統括本部 人財開発本部|
 
 ## その他の活動
 
@@ -53,10 +49,11 @@ timestamp: '最終更新：2016.2.23'
 |2011.10. 4|-|2012. 1.31|：|京都大学 工学部専門科目 [計算機科学実験及演習2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=ja&year=2011&b=5&c=90220) ティーチングアシスタント|
 |2012. 5   |-|2012. 9   |：|[京都大学サマーデザインスクール2012](http://www.dl.kuis.kyoto-u.ac.jp/summer_design2012/) 運営事務|
 |2012.10. 2|-|2013. 1.23|：|京都大学 工学部専門科目 [計算機科学実験及演習2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=ja&year=2012&b=5&c=90220) ティーチングアシスタント|
-|2013. 3.11|-|現在      |：|[日本データベース学会](http://www.dbsj.org/) 学生会員|
-|2013. 6.28|-|現在      |：|日本学術振興会科学研究費補助金（特別研究員奨励費）獲得，総額3,300千円<br />[研究課題：ブロックレベルWebページ検索の研究（研究課題番号：13J06384）](https://kaken.nii.ac.jp/d/p/13J06384.ja.html)|
+|2013. 3.11|-|2016. 3.31|：|[日本データベース学会](http://www.dbsj.org/) 学生会員|
+|2013. 6.28|-|2016. 3.31|：|日本学術振興会科学研究費補助金（特別研究員奨励費）獲得，総額3,300千円<br />[研究課題：ブロックレベルWebページ検索の研究（研究課題番号：13J06384）](https://kaken.nii.ac.jp/d/p/13J06384.ja.html)|
 |2014. 3.15|-|2014. 3.16|：|京都大学スプリングデザインスクール デジタルデザインワークショップ ゲスト講師<br />講義資料：[絵コンテの描き方・絵コンテ用語の早見表](./conti_cheat_sheet.pdf)|
 |2014.11.23| |          |：|TOEIC score 805|
+|2016. 4. 1|-|現在      |：|[日本データベース学会](http://www.dbsj.org/) 正会員|
 
 ## 受賞
 
