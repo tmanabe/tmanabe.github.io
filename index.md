@@ -45,14 +45,14 @@ timestamp: 'Last update: 2016.5.14'
 |2007. 4.28|-|2009.12.19|: |Member of [Yukidaruma-pro](http://yukidarumapro.jpn.org/), an official filmmaking circle of Kyoto University<br />YouTube: [yukidarumapro - YouTube](http://www.youtube.com/user/yukidarumapro)|
 |2011. 8.25|-|2011.9.20|: |Intern at former Cyber Solution Laboratory of [Nippon Telegraph and Telephone Corporation](http://www.ntt.co.jp/about_e/corporatedata.html)<br/>Theme: Information extraction from web contents|
 |2011. 9.27|-|2011.9.29|: |Student of [Kyoto University Summer Design School 2011](http://www.ai.soc.i.kyoto-u.ac.jp/design/en/)<br/>Theme: Designing an HTML editor - not for the image conscious|
-|2011.10. 4|-|2012. 1.31|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2011&b=5&c=90220), an undergraduate course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2011.10. 4|-|2012. 1.31|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2011&b=5&c=90220), a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
 |2012. 5   |-|2012.9   |: |Staff of [Kyoto University Summer Design School 2012](http://www.dl.kuis.kyoto-u.ac.jp/summer_design2012/-/en/)|
-|2012.10. 2|-|2013.1.23|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2012&b=5&c=90220), an undergraduate course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2012.10. 2|-|2013.1.23|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2012&b=5&c=90220), a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
 |2013. 3.11|-|2016. 3.31|: |Student member of [the Database Society of Japan](http://www.dbsj.org/en/)|
 |2013. 6.28|-|2016. 3.31|: |Obtained JSPS KAKENHI (Grants-in-Aid for JSPS Fellows), 3,300,000 yen in total<br />Research Project: A Study on Block-Level Web Search (Grant Number: 13J06384)|
 |2014. 3.15|-|2014.3.16|: |Guest lecturer of Digital Design Workshop at Kyoto University Spring Design School 2014|
-|2014.11.23| |         |: |TOEIC score 805|
 |2016. 4. 1|-|current  |: |Member of [the Database Society of Japan](http://www.dbsj.org/en/)|
+|2016. 5.17| |         |: |TOEIC IP score 830|
 
 
 ## Links

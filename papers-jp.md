@@ -1,7 +1,7 @@
 ---
 layout: plain
 lang:   'ja'
-h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての論文 (All Publications)'
+h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications)'
 ---
 
 *   <u>真鍋知博</u>（指導教員：田島敬史准教授）：<br />“Webページ中のノード間の等位関係の発見”，<br />_特別研究報告書_，2011.
@@ -15,4 +15,7 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての論文 (All Publications)'
 *   {{ site.data.papers.airs15 }}
 *   {{ site.data.papers.dbsj16 }}
 *   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis<br />（“階層的な見出しブロック構造の分析に基づくWeb検索”）.<br />_Doctoral Dissertation_, 2016.
+    * [要約](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=ja)
 *    {{ site.data.papers.webist16 }}
+*   <u>真鍋知博</u>：<br />“Web Search Based on Hierarchical Heading-Block Structure Analysis”，<br />トピックス 研究会推薦博士論文速報，_情報処理_，vol. 57, no. 9, September 2016 (to appear, also to appear on the web).
+*    {{ site.data.papers.lnbip16 }}

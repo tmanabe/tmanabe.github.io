@@ -6,13 +6,13 @@ ntcir13: >
 vldb15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
-    _Proc. of VLDB_, vol. 8, no. 12, pp.1606-1617, August 2015.
+    _Proc. of VLDB_, vol. 8, no. 12, pp. 1606-1617, August 2015.
         *   [Reference implementation](https://github.com/tmanabe/HEPS)
         *   [Data set](https://github.com/tmanabe/HEPS-data-set)
 airs15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Heading-Aware Snippet Generation for Web Search.<br />
-    In _Proc. of AIRS_, LNCS, vol. 9460, pp.188-200, 2015 (also to appear at [KURENAI](http://repository.kulib.kyoto-u.ac.jp/dspace/)).
+    In _Proc. of AIRS_, LNCS, vol. 9460, pp. 188-200, 2015 (also to appear at [KURENAI](http://repository.kulib.kyoto-u.ac.jp/dspace/)).
         *   [Results](https://github.com/tmanabe/AIRS15-results)
 dbsj16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
@@ -22,5 +22,11 @@ dbsj16: >
 webist16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Hierarchical Headings.<br />
-    In _Proc. of WEBIST_, 2016.
+    In _Proc. of WEBIST_, pp. 121-130, 2016.
+        * [SCITEPRESS Digital Library (Full Text Download)](http://dx.doi.org/10.5220/0005812401210130)
         * [Results](https://github.com/tmanabe/WEBIST16-results)
+lnbip16: >
+    <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
+    Subtopic Ranking Based on Block-Level Document Analysis.<br />
+    (the extended version of our WEBIST 2016 conference paper)<br />
+    _WEBIST_, LNBIP, 2016 (to appear).
