@@ -3,15 +3,28 @@ layout:    index
 lang:      'en'
 next_lang: '<a href="./index-jp.html"><img title="Nihongo-ban" width="56" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAQCAAAAABmEuOZAAAB5UlEQVQoz52STWsTURSG8zP8DxXBj4Wb6iKYkJYWcaqgC8dFN1pNLCmKutAu1GYRYyONHygljOYGb8WVjBCkoEMTdFFwFqFUjFoJASdOIUkbm2QeF2MSSbIQz+o9h/vw3nPv6+E/y9M/qj9tdZtGV5YtIlZn6qFcBmj87Bywx9tqSUROWrqu6/rpa6BF8ELsmRCLQwYeVgNCCDHv64IKQMltjPeVSsCuVLZA0/DCaKV91dUQwIYK8FZKKRN7pZTp3Vd5J4SIJcBPvYoLNoqDQYDWngOv/kjrx/pcK5veL+dOAdqUuBgNBpJSxrVB4ONJZbbmyuVMJrNN/gJm2HUERu9DLEpnx4U2WDxcUjYm3XfN6PLoJ/PuFfPlmfBDNI08jOh5Jr71Ozon1myF9LkWwKZt25bp1jpaUB4y8NXiO94BO84sYyt8ve2zgMsidezXhxkhxPgaJF+gFhjhkpzvA51bhiGTB5+PpeK7btbxg5fsdUCx4U4OtfA9yJuhKj071u4VOv/4MUUPeH4HtbCwQmLfg78ci2Gg4XQDAOAXYpjsWdM0j9g0Z0H9PM3io63hUBUPhXRPVjePt9UELJGbNk0ztM3rIkw9WYnmoDp2Y1DInVJbNQEaTbepAXzJOAAtZxD4b/Ub5Zf5kIEQURgAAAAASUVORK5CYII="/></a>'
 h1:        'Tomohiro Manabe'
-timestamp: 'Last update: 2016.7.21'
+timestamp: 'Last update: 2016.9.4'
 ---
 
 *   [Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)
-    *   Kioi Tower, 1-2 Kioi-cho, Chiyoda-ku, Tokyo 102-0094 Japan
+    *   Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyodaku, Tokyo 102-8282 Japan
 *   Doctor of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2016)
 *   Master of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2013)
 *   Bachelor of Engineering in Informatics and Mathematical Science ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2011)
 *   Member of [the Database Society of Japan](http://www.dbsj.org/en/)
+
+
+## Career Summary
+
+|2004. 4. 1|-|2007. 3. 1|: |Student in the general education curriculum of [Tokushima Prefectural Joto Senior High School](http://joto-hs.tokushima-ec.ed.jp/English/)|
+|2007. 4. 1|-|2011. 3.24|: |Student of [Undergraduate School of Informatics and Mathematical Science](http://www.s-im.t.kyoto-u.ac.jp/en) of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2008. 4. 1|-|2011. 3.24|: |Student in [Computer Science Course](http://www.s-im.t.kyoto-u.ac.jp/com/en/) of the same school|
+|2010. 4. 9|-|2016. 3.23|: |Member of [Digital Library Group](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/digital_library/) (or [Tanaka Laboratory](http://www.dl.kuis.kyoto-u.ac.jp/wordpress/en/), formerly Tanaka and Tajima Laboratory) in [Social Information Model Division](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/) of [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/) of [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2010. 4.12|-|2016. 3. 9|: |Advised by [Prof. Keishi Tajima](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/)|
+|2011. 4. 1|-|2013. 3.23|: |Master course student of the same dept.|
+|2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
+|2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
+|2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)|
 
 
 ## Research Interests and Main Publications
@@ -28,18 +41,6 @@ timestamp: 'Last update: 2016.7.21'
 [All publications in English](./papers.html) / [All publications](./papers-jp.html)
 
 
-## Career Summary
-
-|2004. 4. 1|-|2007. 3. 1|: |Student in the general education curriculum of [Tokushima Prefectural Joto Senior High School](http://joto-hs.tokushima-ec.ed.jp/English/)|
-|2007. 4. 1|-|2011. 3.24|: |Student of [Undergraduate School of Informatics and Mathematical Science](http://www.s-im.t.kyoto-u.ac.jp/en) of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
-|2008. 4. 1|-|2011. 3.24|: |Student in [Computer Science Course](http://www.s-im.t.kyoto-u.ac.jp/com/en/) of the same school|
-|2010. 4. 9|-|2016. 3.23|: |Member of [Digital Library Group](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/digital_library/) (or [Tanaka Laboratory](http://www.dl.kuis.kyoto-u.ac.jp/wordpress/en/), formerly Tanaka and Tajima Laboratory) in [Social Information Model Division](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/) of [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/) of [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
-|2010. 4.12|-|2016. 3. 9|: |Advised by [Prof. Keishi Tajima](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/)|
-|2011. 4. 1|-|2013. 3.23|: |Master course student of the same dept.|
-|2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
-|2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
-|2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)|
-
 ## Other Activities
 
 |2007. 4.28|-|2009.12.19|: |Member of [Yukidaruma-pro](http://yukidarumapro.jpn.org/), an official filmmaking circle of Kyoto University<br />YouTube: [yukidarumapro - YouTube](http://www.youtube.com/user/yukidarumapro)|
@@ -53,6 +54,8 @@ timestamp: 'Last update: 2016.7.21'
 |2014. 3.15|-|2014.3.16|: |Guest lecturer of Digital Design Workshop at Kyoto University Spring Design School 2014|
 |2016. 4. 1|-|current  |: |Member of [the Database Society of Japan](http://www.dbsj.org/en/)|
 |2016. 5.17| |         |: |TOEIC IP score 830|
+|2016. 7.20| |         |: |[Linux Professional Institute](https://www.lpi.org/) [Certified Level 1](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)|
+|2016. 8   |-|current  |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) [OpenLiveQ task](http://www.openliveq.net/)|
 
 
 ## Links

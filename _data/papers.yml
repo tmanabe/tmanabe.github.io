@@ -7,26 +7,27 @@ vldb15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
     _Proc. of VLDB_, vol. 8, no. 12, pp. 1606-1617, August 2015.
-        *   [Reference implementation](https://github.com/tmanabe/HEPS)
-        *   [Data set](https://github.com/tmanabe/HEPS-data-set)
+        *   [Reference implementation](https://github.com/tmanabe/HEPS), [data set](https://github.com/tmanabe/HEPS-data-set), [slides](./slides/vldb15.pdf), and [poster](./misc/vldb15poster.pdf)
 airs15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Heading-Aware Snippet Generation for Web Search.<br />
-    In _Proc. of AIRS_, LNCS, vol. 9460, pp. 188-200, 2015 (also to appear at [KURENAI](http://repository.kulib.kyoto-u.ac.jp/dspace/)).
-        *   [Results](https://github.com/tmanabe/AIRS15-results)
+    In _Proc. of AIRS_, LNCS, vol. 9460, pp. 188-200, 2015.
+        *   [Author version](./papers/airs15.pdf) ([The final publication is available at link.springer.com](http://dx.doi.org/10.1007/978-3-319-28940-3_15))
+        *   [Evaluation results](https://github.com/tmanabe/AIRS15-results) and [slides](./slides/airs15.pdf)
 dbsj16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Heading-Aware Proximity Measure and Its Application to Web Search](http://dbsj.org/wp-content/uploads/2016/02/DBSJ14_e_02.pdf).<br />
     _DBSJ Journal_, vol. 14, article no. 2, March 2016.
-        * [Output](https://github.com/tmanabe/DBSJ16-output)
+        *   [Output](https://github.com/tmanabe/DBSJ16-output)
 webist16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Hierarchical Headings.<br />
     In _Proc. of WEBIST_, pp. 121-130, 2016.
-        * [SCITEPRESS Digital Library (Full Text Download)](http://dx.doi.org/10.5220/0005812401210130)
-        * [Results](https://github.com/tmanabe/WEBIST16-results)
+            *   [SCITEPRESS Digital Library (Full Text Download)](http://dx.doi.org/10.5220/0005812401210130)
+            *   [Evaluation results](https://github.com/tmanabe/WEBIST16-results) and [slides](./slides/webist16.pdf)
 lnbip16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Block-Level Document Analysis.<br />
     (the extended version of our WEBIST 2016 conference paper)<br />
     _WEBIST_, LNBIP, 2016 (to appear).
+            <!--- *   [Author version](./papers/lnbip16.pdf) (The final publication is available at Springer via [http://dx.doi.org/[insert DOI]](http://dx.doi.org/[insert DOI])) --->
