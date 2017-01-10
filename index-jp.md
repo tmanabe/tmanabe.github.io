@@ -3,7 +3,7 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
-timestamp: '最終更新：2016.9.4'
+timestamp: '最終更新：2017.1.10'
 ---
 
 *   [ヤフー株式会社](http://docs.yahoo.co.jp/) データ＆サイエンスソリューション統括本部
@@ -58,6 +58,7 @@ timestamp: '最終更新：2016.9.4'
 |2016. 5.17| |          |：|TOEIC IP score 830|
 |2016. 7.20| |          |：|[Linux技術者認定資格](http://www.lpi.or.jp/) [レベル1認定エンジニア](http://www.lpi.or.jp/lpic1/)|
 |2016. 8   |-|現在      |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) [OpenLiveQ タスク](http://www.openliveq.net/) オーガナイザ|
+|2016.12.16| |          |：|[応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html) 合格|
 
 
 ## 受賞
@@ -79,4 +80,5 @@ timestamp: '最終更新：2016.9.4'
 
 *   [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manabe:Tomohiro)
 *   [GitHub](https://github.com/tmanabe)
+*   [Qiita](http://qiita.com/tomanabe)
 *   [Facebook](https://www.facebook.com/manabe.pdx)
