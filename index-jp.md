@@ -14,6 +14,23 @@ timestamp: '最終更新：2017.1.10'
 *   [日本データベース学会](http://www.dbsj.org/) 正会員
 
 
+## 研究テーマと主要論文
+
+### 木構造文書のノード間の関係
+*   {{ site.data.papers.vldb15 }}
+
+### 構造化文書の自動要約
+*   {{ site.data.papers.airs15 }}
+
+### ブロックレベルWebページ検索
+*   {{ site.data.papers.dbsj16 }}
+
+### 効果的で高速なランキング評価
+*   {{ site.data.papers.sigir17 }}
+
+[全ての英文出版物](./papers.html) / [全ての出版物](./papers-jp.html)
+
+
 ## 略歴
 
 |2004 (H16). 4. 1|-|2007 (H19). 3. 1|：|[徳島県立城東高等学校](http://joto-hs.tokushima-ec.ed.jp/) 普通科|
@@ -26,20 +43,6 @@ timestamp: '最終更新：2017.1.10'
 |2013 (H25). 4. 1|-|2016 (H28). 3.31|：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
 |2016 (H28). 4. 1|-|2016 (H28). 4.14|：|[ヤフー株式会社](http://docs.yahoo.co.jp/) コーポレート統括本部|
 |2016 (H28). 4.15|-|現在            |：|同社 データ＆サイエンスソリューション統括本部|
-
-
-## 研究テーマと主要論文
-
-### 木構造文書のノード間の関係
-*   {{ site.data.papers.vldb15 }}
-
-### 構造化文書の自動要約
-*   {{ site.data.papers.airs15 }}
-
-### ブロックレベルWebページ検索
-*   {{ site.data.papers.dbsj16 }}
-
-[全ての英文出版物](./papers.html) / [全ての出版物](./papers-jp.html)
 
 
 ## その他の活動

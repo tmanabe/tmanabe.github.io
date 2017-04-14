@@ -14,19 +14,6 @@ timestamp: 'Last update: 2017.1.10'
 *   Member of [the Database Society of Japan](http://www.dbsj.org/en/)
 
 
-## Career Summary
-
-|2004. 4. 1|-|2007. 3. 1|: |Student in the general education curriculum of [Tokushima Prefectural Joto Senior High School](http://joto-hs.tokushima-ec.ed.jp/English/)|
-|2007. 4. 1|-|2011. 3.24|: |Student of [Undergraduate School of Informatics and Mathematical Science](http://www.s-im.t.kyoto-u.ac.jp/en) of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
-|2008. 4. 1|-|2011. 3.24|: |Student in [Computer Science Course](http://www.s-im.t.kyoto-u.ac.jp/com/en/) of the same school|
-|2010. 4. 9|-|2016. 3.23|: |Member of [Digital Library Group](http://www.soc.i.kyoto-u.ac.jp/en/course/digital-library/) (or Tanaka Laboratory or Tanaka and Tajima Laboratory) in [Social Information Model Division](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/) of [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/) of [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
-|2010. 4.12|-|2016. 3. 9|: |Advised by [Prof. Keishi Tajima](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/)|
-|2011. 4. 1|-|2013. 3.23|: |Master course student of the same dept.|
-|2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
-|2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
-|2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)|
-
-
 ## Research Interests and Main Publications
 
 ### Logical structure of tree-structured documents
@@ -38,7 +25,23 @@ timestamp: 'Last update: 2017.1.10'
 ### Block-based web search
 *   {{ site.data.papers.dbsj16 }}
 
+### Effective and efficient evaluation of document rankings
+*   {{ site.data.papers.sigir17 }}
+
 [All publications in English](./papers.html) / [All publications](./papers-jp.html)
+
+
+## Career Summary
+
+|2004. 4. 1|-|2007. 3. 1|: |Student in the general education curriculum of [Tokushima Prefectural Joto Senior High School](http://joto-hs.tokushima-ec.ed.jp/English/)|
+|2007. 4. 1|-|2011. 3.24|: |Student of [Undergraduate School of Informatics and Mathematical Science](http://www.s-im.t.kyoto-u.ac.jp/en) of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2008. 4. 1|-|2011. 3.24|: |Student in [Computer Science Course](http://www.s-im.t.kyoto-u.ac.jp/com/en/) of the same school|
+|2010. 4. 9|-|2016. 3.23|: |Member of [Digital Library Group](http://www.soc.i.kyoto-u.ac.jp/en/course/digital-library/) (or Tanaka Laboratory or Tanaka and Tajima Laboratory) in [Social Information Model Division](http://www.soc.i.kyoto-u.ac.jp/en/divisions/social_info_model/) of [Department of Social Informatics](http://www.soc.i.kyoto-u.ac.jp/en/) of [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2010. 4.12|-|2016. 3. 9|: |Advised by [Prof. Keishi Tajima](http://www.dl.soc.i.kyoto-u.ac.jp/~tajima/)|
+|2011. 4. 1|-|2013. 3.23|: |Master course student of the same dept.|
+|2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
+|2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
+|2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)|
 
 
 ## Other Activities
