@@ -36,3 +36,7 @@ lnbip17: >
     (the extended version of our WEBIST 2016 conference paper)<br />
     _WEBIST_, LNBIP, 2017 (to appear).
             <!--- *   [Author version](./papers/lnbip16.pdf) (The final publication is available at Springer via [http://dx.doi.org/[insert DOI]](http://dx.doi.org/[insert DOI])) --->
+sigir17: >
+    <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
+    A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
+    In _Proc. of SIGIR_, 2017 (to appear).

@@ -4,7 +4,7 @@ lang:   'en'
 h1:     'Tomohiro Manabe > All Publications in English'
 ---
 
-*   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Extracting Hierarchical Heading Structure from Web Pages<br />_Master Thesis_, 2013.
+*   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Extracting Hierarchical Heading Structure from Web Pages.<br />_Master Thesis_, 2013.
 *   {{ site.data.papers.ntcir13 }}
 *   {{ site.data.papers.vldb15 }}
 *   {{ site.data.papers.airs15 }}
@@ -14,3 +14,4 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *    {{ site.data.papers.webist16 }}
 *    {{ site.data.papers.imt16 }}
 *    {{ site.data.papers.lnbip17 }}
+*    {{ site.data.papers.sigir17 }}
