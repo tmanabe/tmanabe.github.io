@@ -3,7 +3,7 @@ layout:    index
 lang:      'en'
 next_lang: '<a href="./index-jp.html"><img title="Nihongo-ban" width="56" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAQCAAAAABmEuOZAAAB5UlEQVQoz52STWsTURSG8zP8DxXBj4Wb6iKYkJYWcaqgC8dFN1pNLCmKutAu1GYRYyONHygljOYGb8WVjBCkoEMTdFFwFqFUjFoJASdOIUkbm2QeF2MSSbIQz+o9h/vw3nPv6+E/y9M/qj9tdZtGV5YtIlZn6qFcBmj87Bywx9tqSUROWrqu6/rpa6BF8ELsmRCLQwYeVgNCCDHv64IKQMltjPeVSsCuVLZA0/DCaKV91dUQwIYK8FZKKRN7pZTp3Vd5J4SIJcBPvYoLNoqDQYDWngOv/kjrx/pcK5veL+dOAdqUuBgNBpJSxrVB4ONJZbbmyuVMJrNN/gJm2HUERu9DLEpnx4U2WDxcUjYm3XfN6PLoJ/PuFfPlmfBDNI08jOh5Jr71Ozon1myF9LkWwKZt25bp1jpaUB4y8NXiO94BO84sYyt8ve2zgMsidezXhxkhxPgaJF+gFhjhkpzvA51bhiGTB5+PpeK7btbxg5fsdUCx4U4OtfA9yJuhKj071u4VOv/4MUUPeH4HtbCwQmLfg78ci2Gg4XQDAOAXYpjsWdM0j9g0Z0H9PM3io63hUBUPhXRPVjePt9UELJGbNk0ztM3rIkw9WYnmoDp2Y1DInVJbNQEaTbepAXzJOAAtZxD4b/Ub5Zf5kIEQURgAAAAASUVORK5CYII="/></a>'
 h1:        'Tomohiro Manabe'
-timestamp: 'Last update: 2017.1.10'
+timestamp: 'Last update: 2017.4.15'
 ---
 
 *   [Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)
