@@ -13,5 +13,5 @@ h1:     'Tomohiro Manabe > All Publications in English'
     * [Abstract](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=en)
 *    {{ site.data.papers.webist16 }}
 *    {{ site.data.papers.imt16 }}
-*    {{ site.data.papers.lnbip17 }}
 *    {{ site.data.papers.sigir17 }}
+*    {{ site.data.papers.lnbip17 }}

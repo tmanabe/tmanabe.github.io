@@ -3,7 +3,7 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
-timestamp: '最終更新：2017.4.15'
+timestamp: '最終更新：2017.8.10'
 ---
 
 *   [ヤフー株式会社](http://docs.yahoo.co.jp/) データ＆サイエンスソリューション統括本部
@@ -18,9 +18,6 @@ timestamp: '最終更新：2017.4.15'
 
 ### 木構造文書のノード間の関係
 *   {{ site.data.papers.vldb15 }}
-
-### 構造化文書の自動要約
-*   {{ site.data.papers.airs15 }}
 
 ### ブロックレベルWebページ検索
 *   {{ site.data.papers.dbsj16 }}

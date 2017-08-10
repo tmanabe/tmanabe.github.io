@@ -3,7 +3,7 @@ layout:    index
 lang:      'en'
 next_lang: '<a href="./index-jp.html"><img title="Nihongo-ban" width="56" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAQCAAAAABmEuOZAAAB5UlEQVQoz52STWsTURSG8zP8DxXBj4Wb6iKYkJYWcaqgC8dFN1pNLCmKutAu1GYRYyONHygljOYGb8WVjBCkoEMTdFFwFqFUjFoJASdOIUkbm2QeF2MSSbIQz+o9h/vw3nPv6+E/y9M/qj9tdZtGV5YtIlZn6qFcBmj87Bywx9tqSUROWrqu6/rpa6BF8ELsmRCLQwYeVgNCCDHv64IKQMltjPeVSsCuVLZA0/DCaKV91dUQwIYK8FZKKRN7pZTp3Vd5J4SIJcBPvYoLNoqDQYDWngOv/kjrx/pcK5veL+dOAdqUuBgNBpJSxrVB4ONJZbbmyuVMJrNN/gJm2HUERu9DLEpnx4U2WDxcUjYm3XfN6PLoJ/PuFfPlmfBDNI08jOh5Jr71Ozon1myF9LkWwKZt25bp1jpaUB4y8NXiO94BO84sYyt8ve2zgMsidezXhxkhxPgaJF+gFhjhkpzvA51bhiGTB5+PpeK7btbxg5fsdUCx4U4OtfA9yJuhKj071u4VOv/4MUUPeH4HtbCwQmLfg78ci2Gg4XQDAOAXYpjsWdM0j9g0Z0H9PM3io63hUBUPhXRPVjePt9UELJGbNk0ztM3rIkw9WYnmoDp2Y1DInVJbNQEaTbepAXzJOAAtZxD4b/Ub5Zf5kIEQURgAAAAASUVORK5CYII="/></a>'
 h1:        'Tomohiro Manabe'
-timestamp: 'Last update: 2017.4.15'
+timestamp: 'Last update: 2017.8.10'
 ---
 
 *   [Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)
@@ -18,9 +18,6 @@ timestamp: 'Last update: 2017.4.15'
 
 ### Logical structure of tree-structured documents
 *   {{ site.data.papers.vldb15 }}
-
-### Automatic summarization of structured documents
-*   {{ site.data.papers.airs15 }}
 
 ### Block-based web search
 *   {{ site.data.papers.dbsj16 }}
@@ -50,15 +47,15 @@ timestamp: 'Last update: 2017.4.15'
 |2011. 8.25|-|2011.9.20|: |Intern at former Cyber Solution Laboratory of [Nippon Telegraph and Telephone Corporation](http://www.ntt.co.jp/about_e/corporatedata.html)<br/>Theme: Information extraction from web contents|
 |2011. 9.27|-|2011.9.29|: |Student of [Kyoto University Summer Design School 2011](http://www.ai.soc.i.kyoto-u.ac.jp/design/en/)<br/>Theme: Designing an HTML editor - not for the image conscious|
 |2011.10. 4|-|2012. 1.31|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2011&b=5&c=90220), a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
-|2012. 5   |-|2012.9   |: |Staff of [Kyoto University Summer Design School 2012](http://www.dl.kuis.kyoto-u.ac.jp/summer_design2012/-/en/)|
-|2012.10. 2|-|2013.1.23|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2012&b=5&c=90220), a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2012. 5   |-|2012. 9   |: |Staff of [Kyoto University Summer Design School 2012](http://www.dl.kuis.kyoto-u.ac.jp/summer_design2012/-/en/)|
+|2012.10. 2|-|2013. 1.23|: |Teaching assistant of [Hardware and Software Laboratory Project 2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=en&year=2012&b=5&c=90220), a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
 |2013. 3.11|-|2016. 3.31|: |Student member of [the Database Society of Japan](http://www.dbsj.org/en/)|
 |2013. 6.28|-|2016. 3.31|: |Obtained JSPS KAKENHI (Grants-in-Aid for JSPS Fellows), 3,300,000 yen in total<br />Research Project: A Study on Block-Level Web Search (Grant Number: 13J06384)|
-|2014. 3.15|-|2014.3.16|: |Guest lecturer of Digital Design Workshop at Kyoto University Spring Design School 2014|
-|2016. 4. 1|-|current  |: |Member of [the Database Society of Japan](http://www.dbsj.org/en/)|
-|2016. 5.17| |         |: |TOEIC IP score 830|
-|2016. 7.20| |         |: |[Linux Professional Institute](https://www.lpi.org/) [Certified Level 1](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)|
-|2016. 8   |-|current  |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) [OpenLiveQ task](http://www.openliveq.net/?locale=en)|
+|2014. 3.15|-|2014. 3.16|: |Guest lecturer of Digital Design Workshop at Kyoto University Spring Design School 2014|
+|2016. 4. 1|-|current   |: |Member of [the Database Society of Japan](http://www.dbsj.org/en/)|
+|2016. 5.17| |          |: |TOEIC IP score 830|
+|2016. 7.20| |          |: |[Linux Professional Institute](https://www.lpi.org/) [Certified Level 1](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)|
+|2016. 8   |-|current   |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) [OpenLiveQ task](http://www.openliveq.net/?locale=en)|
 
 
 ## Links

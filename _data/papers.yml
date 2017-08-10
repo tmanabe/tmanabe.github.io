@@ -30,13 +30,14 @@ imt16: >
     [Heading-Aware Proximity Measure and Its Application to Web Search](https://www.jstage.jst.go.jp/article/imt/11/0/11_154/_pdf).<br />
     (reprint of our DBSJ Journal vol. 14 paper)<br />
     _Information and Media Technologies_, vol. 11, pp. 154-159, June 2016.
+sigir17: >
+    <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
+    A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
+    In _Proc. of SIGIR_, pp. 949-952, 2017.
+        *   [The ACM Digital Library (Full Text Download)](https://doi.org/10.1145/3077136.3080687)
 lnbip17: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Block-Level Document Analysis.<br />
     (the extended version of our WEBIST 2016 conference paper)<br />
     _WEBIST_, LNBIP, 2017 (to appear).
             <!--- *   [Author version](./papers/lnbip16.pdf) (The final publication is available at Springer via [http://dx.doi.org/[insert DOI]](http://dx.doi.org/[insert DOI])) --->
-sigir17: >
-    <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
-    A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
-    In _Proc. of SIGIR_, 2017 (to appear).
