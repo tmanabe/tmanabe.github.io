@@ -22,3 +22,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   <u>真鍋知博</u>：<br />“[Web Search Based on Hierarchical Heading-Block Structure Analysis](http://dbsj.org/dissertation/2016/5665/)”，<br />日本データベース学会 学位論文紹介記事，no. 23, 2016.
 *    {{ site.data.papers.sigir17 }}
 *    {{ site.data.papers.lnbip17 }}
+*    {{ site.data.papers.ntcir17 }}

@@ -15,3 +15,4 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *    {{ site.data.papers.imt16 }}
 *    {{ site.data.papers.sigir17 }}
 *    {{ site.data.papers.lnbip17 }}
+*    {{ site.data.papers.ntcir17 }}
