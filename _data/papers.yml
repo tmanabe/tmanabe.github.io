@@ -35,6 +35,10 @@ sigir17: >
     A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
     In _Proc. of SIGIR_, pp. 949-952, 2017.
           *   [The ACM Digital Library (Full Text Download)](https://doi.org/10.1145/3077136.3080687)
+arxiv17: >
+    <u>Tomohiro Manabe</u> and Sumio Fujita.<br />
+    [A Short Note on Proximity-based Scoring of Documents with Multiple Fields](https://arxiv.org/pdf/1709.03260).<br />
+    _CoRR_, arXiv:1709.03260, 2017.
 lnbip17: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Block-Level Document Analysis.<br />
