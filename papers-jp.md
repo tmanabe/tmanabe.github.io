@@ -23,4 +23,5 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.sigir17 }}
 *    {{ site.data.papers.arxiv17 }}
 *    {{ site.data.papers.lnbip17 }}
-*    {{ site.data.papers.ntcir17 }}
+*    {{ site.data.papers.ntcir170 }}
+*    {{ site.data.papers.ntcir171 }}

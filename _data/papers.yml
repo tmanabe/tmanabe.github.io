@@ -43,9 +43,14 @@ lnbip17: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Block-Level Document Analysis.<br />
     (the extended version of our WEBIST 2016 conference paper)<br />
-    _Web Information Systems and Technologies_, LNBIP, vol. 292, 2017 (to appear).
-          <!--- *   [Author version](./papers/lnbip16.pdf) ([The final publication is available at link.springer.com](http://dx.doi.org/[insert DOI])) --->
-ntcir17: >
+    _Web Information Systems and Technologies_, LNBIP, vol. 292, pp. 83-104, 2017.
+          *   [Author version](./papers/lnbip16.pdf) ([The final publication is available at link.springer.com](https://doi.org/10.1007/978-3-319-66468-2_5))
+          *   [Evaluation results (identical to our WEBIST 2016 results)](https://github.com/tmanabe/WEBIST16-results)
+ntcir170: >
     Makoto P. Kato, Takehiro Yamamoto, <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
     Overview of the NTCIR-13 OpenLiveQ Task.<br />
+    In _Proc. of NTCIR_, 2017 (to appear).
+ntcir171: >
+    <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
+    YJRS at NTCIR-13 OpenLiveQ Task.<br />
     In _Proc. of NTCIR_, 2017 (to appear).
