@@ -2,16 +2,16 @@ ntcir13: >
     <u>Tomohiro Manabe</u>, Kosetsu Tsukuda, Kazutoshi Umemoto, Yoshiyuki Shoji, Makoto P. Kato,<br />
     Takehiro Yamamoto, Meng Zhao, Soungwoong Yoon, Hiroaki Ohshima, and Katsumi Tanaka.<br />
     [Information Extraction based Approach for the NTCIR-10 1CLICK-2 Task](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/1CLICK/07-NTCIR10-1CLICK-TomohiroM.pdf).<br />
-    In _Proc. of NTCIR_, pp. 243-249, 2013.
+    In _NTCIR_, pp. 243-249, 2013.
 vldb15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
-    _Proc. of VLDB_, vol. 8, no. 12, pp. 1606-1617, August 2015.
+    _The Proceedings of the VLDB Endowment_, vol. 8, no. 12, pp. 1606-1617, August 2015.
           *   [Reference implementation](https://github.com/tmanabe/HEPS), [data set](https://github.com/tmanabe/HEPS-data-set), [slides](./slides/vldb15.pdf), and [poster](./misc/vldb15poster.pdf)
 airs15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Heading-Aware Snippet Generation for Web Search.<br />
-    _Information Retieval Technology_ (_Proc. of AIRS_), LNCS, vol. 9460, pp. 188-200, 2015.
+    _Information Retieval Technology_ (AIRS Proceedings), LNCS, vol. 9460, pp. 188-200, 2015.
           *   [Author version](./papers/airs15.pdf) ([The final publication is available at link.springer.com](http://dx.doi.org/10.1007/978-3-319-28940-3_15))
           *   [Evaluation results](https://github.com/tmanabe/AIRS15-results) and [slides](./slides/airs15.pdf)
 dbsj16: >
@@ -22,7 +22,7 @@ dbsj16: >
 webist16: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Hierarchical Headings.<br />
-    In _Proc. of WEBIST_, pp. 121-130, 2016.
+    In _WEBIST_, pp. 121-130, 2016.
           *   [SCITEPRESS Digital Library (Full Text Download)](http://dx.doi.org/10.5220/0005812401210130)
           *   [Evaluation results](https://github.com/tmanabe/WEBIST16-results) and [slides](./slides/webist16.pdf)
 imt16: >
@@ -33,24 +33,24 @@ imt16: >
 sigir17: >
     <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
     A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
-    In _Proc. of SIGIR_, pp. 949-952, 2017.
+    In _SIGIR_, pp. 949-952, 2017.
           *   [The ACM Digital Library (Full Text Download)](https://doi.org/10.1145/3077136.3080687)
 arxiv17: >
     <u>Tomohiro Manabe</u> and Sumio Fujita.<br />
     [A Short Note on Proximity-based Scoring of Documents with Multiple Fields](https://arxiv.org/pdf/1709.03260).<br />
-    _CoRR_, arXiv:1709.03260, 2017.
+    _CoRR_, arXiv:1709.03260 [cs.IR], September 2017.
 lnbip17: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Subtopic Ranking Based on Block-Level Document Analysis.<br />
     (the extended version of our WEBIST 2016 conference paper)<br />
-    _Web Information Systems and Technologies_, LNBIP, vol. 292, pp. 83-104, 2017.
+    _Web Information Systems and Technologies_, LNBIP, vol. 292, pp. 83-104, September 2017.
           *   [Author version](./papers/lnbip16.pdf) ([The final publication is available at link.springer.com](https://doi.org/10.1007/978-3-319-66468-2_5))
           *   [Evaluation results (identical to our WEBIST 2016 results)](https://github.com/tmanabe/WEBIST16-results)
 ntcir170: >
     Makoto P. Kato, Takehiro Yamamoto, <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
     Overview of the NTCIR-13 OpenLiveQ Task.<br />
-    In _Proc. of NTCIR_, 2017 (to appear).
+    In _NTCIR_, 2017 (to appear).
 ntcir171: >
     <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
-    YJRS at NTCIR-13 OpenLiveQ Task.<br />
-    In _Proc. of NTCIR_, 2017 (to appear).
+    YJRS at the NTCIR-13 OpenLiveQ Task.<br />
+    In _NTCIR_, 2017 (to appear).
