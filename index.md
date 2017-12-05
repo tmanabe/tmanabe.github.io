@@ -3,7 +3,7 @@ layout:    index
 lang:      'en'
 next_lang: '<a href="./index-jp.html"><img title="Nihongo-ban" width="56" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAQCAAAAABmEuOZAAAB5UlEQVQoz52STWsTURSG8zP8DxXBj4Wb6iKYkJYWcaqgC8dFN1pNLCmKutAu1GYRYyONHygljOYGb8WVjBCkoEMTdFFwFqFUjFoJASdOIUkbm2QeF2MSSbIQz+o9h/vw3nPv6+E/y9M/qj9tdZtGV5YtIlZn6qFcBmj87Bywx9tqSUROWrqu6/rpa6BF8ELsmRCLQwYeVgNCCDHv64IKQMltjPeVSsCuVLZA0/DCaKV91dUQwIYK8FZKKRN7pZTp3Vd5J4SIJcBPvYoLNoqDQYDWngOv/kjrx/pcK5veL+dOAdqUuBgNBpJSxrVB4ONJZbbmyuVMJrNN/gJm2HUERu9DLEpnx4U2WDxcUjYm3XfN6PLoJ/PuFfPlmfBDNI08jOh5Jr71Ozon1myF9LkWwKZt25bp1jpaUB4y8NXiO94BO84sYyt8ve2zgMsidezXhxkhxPgaJF+gFhjhkpzvA51bhiGTB5+PpeK7btbxg5fsdUCx4U4OtfA9yJuhKj071u4VOv/4MUUPeH4HtbCwQmLfg78ci2Gg4XQDAOAXYpjsWdM0j9g0Z0H9PM3io63hUBUPhXRPVjePt9UELJGbNk0ztM3rIkw9WYnmoDp2Y1DInVJbNQEaTbepAXzJOAAtZxD4b/Ub5Zf5kIEQURgAAAAASUVORK5CYII="/></a>'
 h1:        'Tomohiro Manabe'
-timestamp: 'Last update: 2017.9.26'
+timestamp: 'Last update: 2017.12.5'
 ---
 
 *   [Yahoo Japan Corporation](http://docs.yahoo.co.jp/info/en/)
@@ -55,7 +55,8 @@ timestamp: 'Last update: 2017.9.26'
 |2016. 4. 1|-|current   |: |Member of [the Database Society of Japan](http://www.dbsj.org/en/)|
 |2016. 5.17| |          |: |TOEIC IP score 830|
 |2016. 7.20| |          |: |[Linux Professional Institute](https://www.lpi.org/) [Certified Level 1](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)|
-|2016. 8   |-|current   |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) [OpenLiveQ task](http://www.openliveq.net/?locale=en)|
+|2016. 8   |-|2017.12   |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) [OpenLiveQ task](http://www.openliveq.net/?locale=en)|
+|2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) OpenLiveQ-2 task|
 
 
 ## Links
