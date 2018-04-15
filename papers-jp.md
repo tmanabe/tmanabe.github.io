@@ -25,3 +25,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.lnbip17 }}
 *    {{ site.data.papers.ntcir170 }}
 *    {{ site.data.papers.ntcir171 }}
+*   加藤誠，山本岳洋，<u>真鍋知博</u>，西田成臣，藤田澄男：<br />“[コミュニティQ&Aサイトにおける質問検索システムの大規模オンライン評価](http://db-event.jpn.org/deim2018/data/papers/384.pdf)”，<br />In _DEIM_, G2-2, 2018.

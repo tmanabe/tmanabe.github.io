@@ -3,15 +3,16 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
-timestamp: '最終更新：2018.1.9'
+timestamp: '最終更新：2018.4.15'
 ---
 
-*   [ヤフー株式会社](http://docs.yahoo.co.jp/) データ＆サイエンスソリューション統括本部
+*   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ データ＆サイエンスソリューション統括本部
     *   102-8282 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー
 *   [京都大学](http://www.kyoto-u.ac.jp/)博士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2016
 *   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2013
 *   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），[情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)，2011
 *   [日本データベース学会](http://www.dbsj.org/) 正会員
+*   [ACM SIGIR 東京支部](http://sigir.jp/) 会員
 
 
 ## 研究テーマと主要論文
@@ -40,6 +41,7 @@ timestamp: '最終更新：2018.1.9'
 |2013 (H25). 4. 1|-|2016 (H28). 3.31|：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
 |2016 (H28). 4. 1|-|2016 (H28). 4.14|：|[ヤフー株式会社](http://docs.yahoo.co.jp/) コーポレート統括本部|
 |2016 (H28). 4.15|-|現在            |：|同社 データ＆サイエンスソリューション統括本部|
+|2018 (H30). 4. 1|-|現在            |：|同社 テクノロジーグループ データ＆サイエンスソリューション統括本部|
 
 
 ## その他の活動
@@ -59,6 +61,8 @@ timestamp: '最終更新：2018.1.9'
 |2016. 7.20| |          |：|[Linux技術者認定資格](http://www.lpi.or.jp/) [レベル1認定エンジニア](http://www.lpi.or.jp/lpic1/)|
 |2016. 8   |-|2017.12   |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) [OpenLiveQ タスク](http://www.openliveq.net/) オーガナイザ|
 |2016.12.16| |          |：|[応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html) 合格|
+|2018. 2   |-|2018. 7   |: |A Program Committee member for Short Papers on Applications of IR for [ACM SIGIR 2018](http://sigir.org/sigir2018/)|
+|2018. 2.24|-|current   |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
 |2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) OpenLiveQ-2 タスク オーガナイザ|
 
 
