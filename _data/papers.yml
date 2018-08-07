@@ -36,7 +36,7 @@ sigir17: >
     <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
     A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
     In _SIGIR_, pp. 949-952, 2017.
-          *   [The ACM Digital Library (Full Text Download)](https://doi.org/10.1145/3077136.3080687)
+          *   [Details (on Yahoo! Japan Research, including a link to the full text)](https://research-lab.yahoo.co.jp/en/ir/20170807_manabe.html)
           *   [Reference implementation](https://github.com/mpkato/interleaving)
 arxiv17: >
     <u>Tomohiro Manabe</u> and Sumio Fujita.<br />
@@ -59,3 +59,7 @@ ntcir171: >
     [YJRS at the NTCIR-13 OpenLiveQ Task](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/02-NTCIR13-OPENLIVEQ-ManabeT.pdf).<br />
     In _NTCIR_, pp.91-96, 2017.
          *   [Slides](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/02-NTCIR13-OPENLIVEQ-ManabeT-slides.pdf) and [poster](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/02-NTCIR13-OPENLIVEQ-ManabeT-poster.pdf)
+cikm18: >
+    Makoto P. Kato, <u>Tomohiro Manabe</u>, Sumio Fujita, Akiomi Nishida, and Takehiro Yamamoto.<br />
+    Challenges of Multileaved Comparison in Practice: Lessons from NTCIR-13 OpenLiveQ Task.<br />
+    In _CIKM_, 2018 (to appear).

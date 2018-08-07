@@ -26,3 +26,6 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.ntcir170 }}
 *    {{ site.data.papers.ntcir171 }}
 *   加藤誠，山本岳洋，<u>真鍋知博</u>，西田成臣，藤田澄男：<br />“[コミュニティQ&Aサイトにおける質問検索システムの大規模オンライン評価](http://db-event.jpn.org/deim2018/data/papers/384.pdf)”，<br />In _DEIM_, G2-2, 2018.
+*   <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />_Yahoo! Japan Selected Papers in 2017_, p. 6, 2018.
+    *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://research-lab.yahoo.co.jp/en/topics/20180401_yjselectedpapers2017.html)
+*    {{ site.data.papers.cikm18 }}

@@ -3,7 +3,7 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
-timestamp: '最終更新：2018.4.15'
+timestamp: '最終更新：2018.8.7'
 ---
 
 *   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ データ＆サイエンスソリューション統括本部
@@ -24,6 +24,7 @@ timestamp: '最終更新：2018.4.15'
 *   {{ site.data.papers.dbsj16 }}
 
 ### 効果的で高速なランキング評価
+*   {{ site.data.papers.cikm18 }}
 *   {{ site.data.papers.sigir17 }}
 
 [全ての英文出版物](./papers.html) / [全ての出版物](./papers-jp.html)
@@ -62,7 +63,7 @@ timestamp: '最終更新：2018.4.15'
 |2016. 8   |-|2017.12   |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) [OpenLiveQ タスク](http://www.openliveq.net/) オーガナイザ|
 |2016.12.16| |          |：|[応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html) 合格|
 |2018. 2   |-|2018. 7   |: |A Program Committee member for Short Papers on Applications of IR for [ACM SIGIR 2018](http://sigir.org/sigir2018/)|
-|2018. 2.24|-|current   |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
+|2018. 2.24|-|現在      |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
 |2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) OpenLiveQ-2 タスク オーガナイザ|
 
 
