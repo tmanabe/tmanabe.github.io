@@ -50,11 +50,15 @@ lnbip17: >
           *   [Author version](./papers/lnbip16.pdf) ([The final publication is available at link.springer.com](https://doi.org/10.1007/978-3-319-66468-2_5))
           *   [Evaluation results (identical to our WEBIST 2016 results)](https://github.com/tmanabe/WEBIST16-results)
 ntcir170: >
+    Noriko Kando, Sumio Fujita, Makoto P. Kato, and Tomohiro Manabe (Eds.)<br/>
+    [Proceedings of the 13th NTCIR Conference on Evaluation of Information Access Technologies,<br />December 5-8, 2017 Tokyo Japan](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/NTCIR/toc_ntcir.html).<br />
+    National Institute of Informatics, December 2017.
+ntcir171: >
     Makoto P. Kato, Takehiro Yamamoto, <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
     [Overview of the NTCIR-13 OpenLiveQ Task](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-OPENLIVEQ-KatoM.pdf).<br />
     In _NTCIR_, pp. 85-90, 2017.
          *   [Slides](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-OPENLIVEQ-KatoM-slides.pdf) and [poster](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-OPENLIVEQ-KatoM-poster.pdf)
-ntcir171: >
+ntcir172: >
     <u>Tomohiro Manabe</u>, Akiomi Nishida, and Sumio Fujita.<br />
     [YJRS at the NTCIR-13 OpenLiveQ Task](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/02-NTCIR13-OPENLIVEQ-ManabeT.pdf).<br />
     In _NTCIR_, pp.91-96, 2017.

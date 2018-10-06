@@ -18,4 +18,5 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *    {{ site.data.papers.lnbip17 }}
 *    {{ site.data.papers.ntcir170 }}
 *    {{ site.data.papers.ntcir171 }}
+*    {{ site.data.papers.ntcir172 }}
 *    {{ site.data.papers.cikm18 }}
