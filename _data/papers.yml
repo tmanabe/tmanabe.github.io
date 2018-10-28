@@ -50,7 +50,7 @@ lnbip17: >
           *   [Author version](./papers/lnbip16.pdf) ([The final publication is available at link.springer.com](https://doi.org/10.1007/978-3-319-66468-2_5))
           *   [Evaluation results (identical to our WEBIST 2016 results)](https://github.com/tmanabe/WEBIST16-results)
 ntcir170: >
-    Noriko Kando, Sumio Fujita, Makoto P. Kato, and Tomohiro Manabe (Eds.)<br/>
+    Noriko Kando, Sumio Fujita, Makoto P. Kato, and <u>Tomohiro Manabe</u> (Eds.)<br/>
     [Proceedings of the 13th NTCIR Conference on Evaluation of Information Access Technologies,<br />December 5-8, 2017 Tokyo Japan](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/NTCIR/toc_ntcir.html).<br />
     National Institute of Informatics, December 2017.
 ntcir171: >
@@ -66,4 +66,5 @@ ntcir172: >
 cikm18: >
     Makoto P. Kato, <u>Tomohiro Manabe</u>, Sumio Fujita, Akiomi Nishida, and Takehiro Yamamoto.<br />
     Challenges of Multileaved Comparison in Practice: Lessons from NTCIR-13 OpenLiveQ Task.<br />
-    In _CIKM_, 2018 (to appear).
+    In _CIKM_, pp. 1515-1518, 2018.
+          *   [ACM Digital Library (Full Text Download)](https://doi.org/10.1145/3269206.3269318)
