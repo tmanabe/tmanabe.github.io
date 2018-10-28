@@ -3,7 +3,7 @@ layout:    index
 lang:      'ja'
 next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
-timestamp: '最終更新：2018.10.6'
+timestamp: '最終更新：2018.10.29'
 ---
 
 *   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ データ＆サイエンスソリューション統括本部
