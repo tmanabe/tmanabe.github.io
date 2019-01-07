@@ -15,7 +15,7 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   {{ site.data.papers.airs15 }}
 *   {{ site.data.papers.dbsj16 }}
 *   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis<br />（“階層的な見出しブロック構造の分析に基づくWeb検索”）.<br />_Doctoral Dissertation_, Kyoto University, 2016.
-    * [要約](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=ja)
+    * [詳細（京都大学学術情報リポジトリ内，全文へのリンクを含む）](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=ja)
 *    {{ site.data.papers.webist16 }}
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特開2018-025918, 2016/08/09.
 *   <u>真鍋知博</u>：<br />“[Web Search Based on Hierarchical Heading-Block Structure Analysis](http://www.ipsj.or.jp/magazine/hakase/2015/DBS04.html)”，<br />トピックス 研究会推薦博士論文速報，_情報処理_，vol. 57, no. 9, September 2016.

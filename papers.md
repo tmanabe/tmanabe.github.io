@@ -10,7 +10,7 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *   {{ site.data.papers.airs15 }}
 *   {{ site.data.papers.dbsj16 }}
 *   <u>Tomohiro Manabe</u> (advised by Prof. Keishi Tajima).<br />Web Search Based on Hierarchical Heading-Block Structure Analysis.<br />_Doctoral Dissertation_, Kyoto University, 2016.
-    * [Abstract](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=en)
+    * [Details (on Kyoto University Research Information Repository, including a link to the full text)](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/215681?locale=en)
 *    {{ site.data.papers.webist16 }}
 *    {{ site.data.papers.imt16 }}
 *    {{ site.data.papers.sigir17 }}
