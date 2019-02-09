@@ -32,3 +32,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />_Yahoo! Japan Selected Papers in 2017_, p. 6, 2018.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://research-lab.yahoo.co.jp/en/topics/20180401_yjselectedpapers2017.html)
 *    {{ site.data.papers.cikm18 }}
+*   <u>真鍋知博</u>：<br />“[ヤフーにおけるアルゴリズム教育の取り組み](https://techblog.yahoo.co.jp/programming/lectures-on-algorithms-at-yahoo-japan/)”，<br />_Yahoo! JAPAN Tech Blog_, February 2019.
