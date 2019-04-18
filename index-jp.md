@@ -5,7 +5,7 @@ next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
 ---
 
-*   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ データ＆サイエンスソリューション統括本部
+*   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ サイエンス統括本部
     *   102-8282 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー
 *   [京都大学](http://www.kyoto-u.ac.jp/)博士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2016
 *   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2013
