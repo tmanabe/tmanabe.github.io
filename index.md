@@ -60,6 +60,7 @@ h1:        'Tomohiro Manabe'
 |2018. 2   |-|2018. 7   |: |Program Committee member for Short Papers on Applications of IR for [ACM SIGIR 2018](http://sigir.org/sigir2018/)|
 |2018. 2.24|-|current   |: |Member of [Tokyo ACM SIGIR Chapter](http://sigir.jp/)|
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) [OpenLiveQ-2 task](http://www.openliveq.net/?locale=en)|
+|2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
 
 
 ## Links
