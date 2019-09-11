@@ -22,3 +22,5 @@ h1:     'Tomohiro Manabe > All Publications in English'
 *    {{ site.data.papers.cikm18 }}
 *    {{ site.data.papers.ntcir190 }}
 *    {{ site.data.papers.ntcir191 }}
+*    {{ site.data.papers.ntcir192 }}
+*    {{ site.data.papers.ntcir193 }}

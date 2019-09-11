@@ -39,3 +39,5 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、およびプログラム”，<br />特開2019-067226, 2019/04/25.
 *    {{ site.data.papers.ntcir190 }}
 *    {{ site.data.papers.ntcir191 }}
+*    {{ site.data.papers.ntcir192 }}
+*    {{ site.data.papers.ntcir193 }}
