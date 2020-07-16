@@ -61,6 +61,7 @@ h1:        'Tomohiro Manabe'
 |2018. 2.24|-|current   |: |Member of [Tokyo ACM SIGIR Chapter](http://sigir.jp/)|
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) [OpenLiveQ-2 task](http://www.openliveq.net/?locale=en)|
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
+|2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
 
 
 ## Links

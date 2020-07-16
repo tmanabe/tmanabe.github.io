@@ -42,3 +42,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.ntcir192 }}
 *    {{ site.data.papers.ntcir193 }}
 *   雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：<br />“[商品検索におけるゼロマッチ解消のためのデータセット構築の検討](https://proceedings-of-deim.github.io/DEIM2020/papers/C2-5.pdf)”，<br />In _DEIM_, C2-5, 2020.
+*    {{ site.data.papers.cikm20 }}

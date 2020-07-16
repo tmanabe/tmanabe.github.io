@@ -67,6 +67,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2018. 2.24|-|現在      |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
 |2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) [OpenLiveQ-2 タスク](http://www.openliveq.net/) タスク オーガナイザ|
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
+|2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
 
 
 ## 受賞

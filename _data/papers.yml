@@ -90,3 +90,7 @@ ntcir193: >
     (the extended version of our NTCIR-14 OpenLiveQ-2 task participation paper)<br />
     _NII Testbeds and Community for Information Access Research (NTCIR Post-Conference Proceedings)_,<br />
     LNCS, vol. 11966, pp. 57-69, 2019.
+cikm20: >
+    Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />
+    What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />
+    In _CIKM_, 2020 (to appear).
