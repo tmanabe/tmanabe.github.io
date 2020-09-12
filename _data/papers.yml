@@ -8,7 +8,7 @@ vldb15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     [Extracting Logical Hierarchical Structure of HTML Documents Based on Headings](http://www.vldb.org/pvldb/vol8/p1606-manabe.pdf).<br />
     _The Proceedings of the VLDB Endowment_, vol. 8, no. 12, pp. 1606-1617, August 2015.
-          *   [Reference implementation](https://github.com/tmanabe/HEPS), [data set](https://github.com/tmanabe/HEPS-data-set), [slides](./slides/vldb15.pdf), and [poster](./misc/vldb15poster.pdf)
+          *   [Reference implementation](https://github.com/tmanabe/HEPS), [data set](https://github.com/tmanabe/HEPS-data-set), [annotation tools](https://github.com/tmanabe/HEPS-annotation-tools), [slides](./slides/vldb15.pdf), and [poster](./misc/vldb15poster.pdf)
 airs15: >
     <u>Tomohiro Manabe</u> and Keishi Tajima.<br />
     Heading-Aware Snippet Generation for Web Search.<br />

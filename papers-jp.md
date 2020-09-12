@@ -26,7 +26,6 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.ntcir170 }}
 *    {{ site.data.papers.ntcir171 }}
 *    {{ site.data.papers.ntcir172 }}
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特開2018-025918, 2018/02/15.
 *   加藤誠，山本岳洋，<u>真鍋知博</u>，西田成臣，藤田澄男：<br />“[コミュニティQ&Aサイトにおける質問検索システムの大規模オンライン評価](http://db-event.jpn.org/deim2018/data/papers/384.pdf)”，<br />In _DEIM_, G2-2, 2018.
 *   <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />_Yahoo! Japan Selected Papers in 2017_, p. 6, 2018.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://research-lab.yahoo.co.jp/topics/20180401_yjselectedpapers2017.html)
@@ -42,4 +41,5 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.ntcir192 }}
 *    {{ site.data.papers.ntcir193 }}
 *   雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：<br />“[商品検索におけるゼロマッチ解消のためのデータセット構築の検討](https://proceedings-of-deim.github.io/DEIM2020/papers/C2-5.pdf)”，<br />In _DEIM_, C2-5, 2020.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特許第6723650号, 2020/07/15.
 *    {{ site.data.papers.cikm20 }}
