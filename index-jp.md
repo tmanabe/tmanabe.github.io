@@ -12,6 +12,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 *   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），[情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)，2011
 *   [日本データベース学会](http://www.dbsj.org/) 正会員
 *   [ACM SIGIR 東京支部](http://sigir.jp/) 会員
+*   [筑波大学](http://www.tsukuba.ac.jp/) [HCIRリサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員
 
 
 ## 研究テーマと主要論文
@@ -24,7 +25,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 
 ### 効果的で高速なランキング評価
 *   {{ site.data.papers.sigir17 }}
-*   {{ site.data.papers.cikm18 }}
+*   {{ site.data.papers.cikm20 }}
 
 [全ての英文出版物](./papers.html) / [全ての出版物](./papers-jp.html)
 
@@ -68,6 +69,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) [OpenLiveQ-2 タスク](http://www.openliveq.net/) タスク オーガナイザ|
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
 |2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
+|2020.10   |-|2025. 9   |: |[筑波大学](http://www.tsukuba.ac.jp/) [「人間中心情報検索・推薦システム」リサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員|
 
 
 ## 受賞
