@@ -36,7 +36,7 @@ sigir17: >
     <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />
     A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />
     In _SIGIR_, pp. 949-952, 2017.
-          *   [Details (on Yahoo! Japan Research, including a link to the full text)](https://research-lab.yahoo.co.jp/en/ir/20170807_manabe.html)
+          *   [Details (on ACM Digital Library, including a link to the full text)](https://dl.acm.org/doi/10.1145/3077136.3080687?cid=99659190619)
           *   [Reference implementation](https://github.com/mpkato/interleaving)
 arxiv17: >
     <u>Tomohiro Manabe</u> and Sumio Fujita.<br />
@@ -92,5 +92,6 @@ ntcir193: >
     LNCS, vol. 11966, pp. 57-69, 2019.
 cikm20: >
     Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />
-    [What Rankers Can be Statistically Distinguished in Multileaved Comparisons?](https://dl.acm.org/doi/pdf/10.1145/3340531.3412143)<br />
+    What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />
     In _CIKM_, pp. 2081-2084, 2020.
+         *   [Details (on ACM Digital Library, including a link to the full text)](https://dl.acm.org/doi/10.1145/3340531.3412143?cid=99659190619)
