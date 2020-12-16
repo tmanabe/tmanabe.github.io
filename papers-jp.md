@@ -29,7 +29,6 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   加藤誠，山本岳洋，<u>真鍋知博</u>，西田成臣，藤田澄男：<br />“[コミュニティQ&Aサイトにおける質問検索システムの大規模オンライン評価](http://db-event.jpn.org/deim2018/data/papers/384.pdf)”，<br />In _DEIM_, G2-2, 2018.
 *   <u>Tomohiro Manabe</u>, Akiomi Nishida, Makoto P. Kato, Takehiro Yamamoto, and Sumio Fujita.<br />A Comparative Live Evaluation of Multileaving Methods on a Commercial cQA Search.<br />_Yahoo! Japan Selected Papers in 2017_, p. 6, 2018.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://research-lab.yahoo.co.jp/topics/20180401_yjselectedpapers2017.html)
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特開2018-151995, 2018/09/27.
 *    {{ site.data.papers.cikm18 }}
 *   <u>真鍋知博</u>：<br />“[ヤフーにおけるアルゴリズム教育の取り組み](https://techblog.yahoo.co.jp/programming/lectures-on-algorithms-at-yahoo-japan/)”，<br />_Yahoo! JAPAN Tech Blog_, February 2019.
 *   Makoto P. Kato, <u>Tomohiro Manabe</u>, Sumio Fujita, Akiomi Nishida, and Takehiro Yamamoto.<br />
@@ -44,3 +43,5 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特許第6723650号, 2020/07/15.
 *    {{ site.data.papers.cikm20 }}
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム、および情報処理方法”，<br />特開2020-177515, 2020/10/29.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特許第6789860号, 2020/11/06.
+*    {{ site.data.papers.ecir21 }}
