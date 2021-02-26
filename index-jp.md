@@ -5,7 +5,7 @@ next_lang: '<a href="./index.html">English edition</a>'
 h1:        '真鍋 知博 (Manabe, Tomohiro)'
 ---
 
-*   [ヤフー株式会社](http://docs.yahoo.co.jp/) テクノロジーグループ サイエンス統括本部
+*   [ヤフー株式会社](https://about.yahoo.co.jp/) テクノロジーグループ サイエンス統括本部
     *   102-8282 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー
 *   [京都大学](http://www.kyoto-u.ac.jp/)博士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2016
 *   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2013
@@ -40,7 +40,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2011 (H23). 4. 1|-|2013 (H25). 3.23|：|同専攻 修士課程|
 |2013 (H25). 4. 1|-|2016 (H28). 3.23|：|同専攻 博士後期課程|
 |2013 (H25). 4. 1|-|2016 (H28). 3.31|：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
-|2016 (H28). 4. 1|-|2016 (H28). 4.14|：|[ヤフー株式会社](http://docs.yahoo.co.jp/) コーポレート統括本部|
+|2016 (H28). 4. 1|-|2016 (H28). 4.14|：|[ヤフー株式会社](https://about.yahoo.co.jp/) コーポレート統括本部|
 |2016 (H28). 4.15|-|2018 (H30). 3.31|：|同社 データ＆サイエンスソリューション統括本部|
 |2018 (H30). 4. 1|-|2019 (H31). 3.31|：|同社 テクノロジーグループ データ＆サイエンスソリューション統括本部|
 |2019 (H31). 4. 1|-|現在            |：|同グループ サイエンス統括本部|
@@ -52,21 +52,21 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2004. 9. 1| |          |：|日本漢字能力検定 2級合格|
 |2007. 4.28|-|2009.12.19|：|京都大学公認自主映画制作サークル [雪だるまプロ](http://yukidarumapro.jpn.org/)<br />YouTube：[yukidarumapro - YouTube](http://www.youtube.com/user/yukidarumapro)|
 |2011. 8.25|-|2011. 9.20|：|[日本電信電話株式会社](http://www.ntt.co.jp/about/gaiyou.html) 旧サイバーソリューション研究所 夏期実習<br />テーマ：Webコンテンツからの情報抽出|
-|2011. 9.27|-|2011. 9.29|：|[京都大学サマーデザインスクール2011](http://www.ai.soc.i.kyoto-u.ac.jp/design/)<br />テーマ：ホームページの外見よりも中身を整える方法|
-|2011.10. 4|-|2012. 1.31|：|京都大学 工学部専門科目 [計算機科学実験及演習2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=ja&year=2011&b=5&c=90220) ティーチングアシスタント|
-|2012. 5   |-|2012. 9   |：|[京都大学サマーデザインスクール2012](http://www.dl.kuis.kyoto-u.ac.jp/summer_design2012/) 運営事務|
-|2012.10. 2|-|2013. 1.23|：|京都大学 工学部専門科目 [計算機科学実験及演習2](http://www.t.kyoto-u.ac.jp/syllabus-s/?mode=subject&lang=ja&year=2012&b=5&c=90220) ティーチングアシスタント|
+|2011. 9.27|-|2011. 9.29|：|京都大学サマーデザインスクール2011<br />テーマ：ホームページの外見よりも中身を整える方法|
+|2011.10. 4|-|2012. 1.31|：|京都大学 工学部専門科目 計算機科学実験及演習2 ティーチングアシスタント|
+|2012. 5   |-|2012. 9   |：|京都大学サマーデザインスクール2012 運営事務|
+|2012.10. 2|-|2013. 1.23|：|京都大学 工学部専門科目 計算機科学実験及演習2 ティーチングアシスタント|
 |2013. 3.11|-|2016. 3.31|：|[日本データベース学会](http://www.dbsj.org/) 学生会員|
 |2013. 6.28|-|2016. 3.31|：|日本学術振興会科学研究費補助金（特別研究員奨励費）獲得，総額3,300千円<br />[研究課題：ブロックレベルWebページ検索の研究（研究課題番号：13J06384）](https://kaken.nii.ac.jp/d/p/13J06384.ja.html)|
 |2014. 3.15|-|2014. 3.16|：|京都大学スプリングデザインスクール デジタルデザインワークショップ ゲスト講師<br />講義資料：[絵コンテの描き方・絵コンテ用語の早見表](./misc/conti_cheat_sheet.pdf)|
 |2016. 4. 1|-|現在      |：|[日本データベース学会](http://www.dbsj.org/) 正会員|
 |2016. 5.17| |          |：|TOEIC IP score 830|
 |2016. 7.20| |          |：|[Linux技術者認定資格](http://www.lpi.or.jp/) [レベル1認定エンジニア](http://www.lpi.or.jp/lpic1/)|
-|2016. 8   |-|2017.12   |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) [OpenLiveQ タスク](http://www.openliveq.net/) オーガナイザ|
+|2016. 8   |-|2017.12   |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) OpenLiveQ タスク オーガナイザ|
 |2016.12.16| |          |：|[応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html) 合格|
 |2018. 2   |-|2018. 7   |: |A Program Committee member for Short Papers on Applications of IR for [ACM SIGIR 2018](http://sigir.org/sigir2018/)|
 |2018. 2.24|-|現在      |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
-|2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) [OpenLiveQ-2 タスク](http://www.openliveq.net/) タスク オーガナイザ|
+|2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) OpenLiveQ-2 タスク オーガナイザ|
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
 |2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
 |2020.10   |-|2025. 9   |: |[筑波大学](http://www.tsukuba.ac.jp/) [「人間中心情報検索・推薦システム」リサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員|
@@ -74,8 +74,8 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 
 ## 受賞
 
-|2011. 5.31|：|第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011)<br />[優秀論文賞および学生奨励賞](http://db-event.jpn.org/deim2011/index.php?pid=25)<br />（<u>真鍋知博</u>，田島敬史：“Webページ中のノード間の論理的関係の発見”による）|
-|2011. 9.29|：|京都大学サマーデザインスクール2011 [審査員特別賞](http://www.ai.soc.i.kyoto-u.ac.jp/design/report.html)<br />（“ホームページの外見よりも中身を整える方法”グループ全体として）|
+|2011. 5.31|：|第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011)<br />優秀論文賞および学生奨励賞<br />（<u>真鍋知博</u>，田島敬史：“Webページ中のノード間の論理的関係の発見”による）|
+|2011. 9.29|：|京都大学サマーデザインスクール2011 審査員特別賞<br />（“ホームページの外見よりも中身を整える方法”グループ全体として）|
 |2020. 3. 4|：|第12回データ工学と情報マネジメントに関するフォーラム (DEIM2020)<br />[オンラインプレゼンテーション賞](https://db-event.jpn.org/deim2020/post/awards.html)（指導学生による受賞）<br />（雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：“商品検索におけるゼロマッチ解消のためのデータセット構築の検討”による）|
 
 
