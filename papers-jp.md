@@ -44,4 +44,6 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.cikm20 }}
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム、および情報処理方法”，<br />特開2020-177515, 2020/10/29.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特許第6789860号, 2020/11/06.
+*   Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />_Yahoo! Japan Selected Papers in 2020_, p. 8, 2020.
+    *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://randd.yahoo.co.jp/jp/topics/72)
 *    {{ site.data.papers.ecir21 }}
