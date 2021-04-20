@@ -7,6 +7,8 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 
 *   [ヤフー株式会社](https://about.yahoo.co.jp/) テクノロジーグループ サイエンス統括本部
     *   102-8282 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー
+*   [株式会社ZOZOテクノロジーズ](https://tech.zozo.com/)
+    *   263-0023 千葉県千葉市稲毛区緑町1-15-16
 *   [京都大学](http://www.kyoto-u.ac.jp/)博士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2016
 *   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2013
 *   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），[情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)，2011
@@ -45,6 +47,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2018 (H30). 4. 1|-|2019 (H31). 3.31|：|同社 テクノロジーグループ データ＆サイエンスソリューション統括本部|
 |2019 (H31). 4. 1|-|現在            |：|同グループ サイエンス統括本部|
 |2019  (R1).10. 1| |                |：|Zホールディングス株式会社（旧ヤフー株式会社）よりヤフー株式会社が労働契約を承継|
+|2020  (R2).11. 1|-|現在            |：|[株式会社ZOZOテクノロジーズ](https://tech.zozo.com/)|
 
 
 ## その他の活動
@@ -70,6 +73,8 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
 |2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
 |2020.10   |-|2025. 9   |: |[筑波大学](http://www.tsukuba.ac.jp/) [「人間中心情報検索・推薦システム」リサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員|
+|2021. 4   |-|2023. 3   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) 会誌編集委員|
+|2021. 1   |-|2021. 7   |: |A member of the Short Paper Program Committee of [ACM SIGIR 2021](https://sigir.org/sigir2021/)|
 
 
 ## 受賞

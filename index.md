@@ -7,6 +7,8 @@ h1:        'Tomohiro Manabe'
 
 *   [Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)
     *   Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyodaku, Tokyo 102-8282 Japan
+*   [ZOZO Technologies, Inc.](https://tech.zozo.com/en/)
+    *   1-15-16 Midoricho, Inageku, Chibashi, Chiba 263-0023 Japan
 *   Doctor of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2016)
 *   Master of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2013)
 *   Bachelor of Engineering in Informatics and Mathematical Science ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2011)
@@ -41,6 +43,7 @@ h1:        'Tomohiro Manabe'
 |2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
 |2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
 |2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)|
+|2020.11. 1|-|current   |: |[ZOZO Technologies, Inc.](https://tech.zozo.com/en/)|
 
 
 ## Other Activities
@@ -64,6 +67,8 @@ h1:        'Tomohiro Manabe'
 |2019. 8   |-|2019. 9   |: |Program Committee member for the Post-Conference Proceedings of [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/)|
 |2020. 2   |-|2020. 7   |: |Program Committee member of the Short Paper Track of [ACM SIGIR 2020](http://sigir.org/sigir2020/)|
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
+|2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
+|2021. 1   |-|2021. 7   |: |A member of the Short Paper Program Committee of [ACM SIGIR 2021](https://sigir.org/sigir2021/)|
 
 
 ## Links
