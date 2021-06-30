@@ -72,6 +72,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2020.10   |-|2025. 9   |: |[筑波大学](http://www.tsukuba.ac.jp/) [「人間中心情報検索・推薦システム」リサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員|
 |2021. 3   |-|2021. 6   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) [予算申請書作成メンタリング](https://www.ipsj.or.jp/education/mentoring.html) メンター|
 |2021. 4   |-|2023. 3   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) 会誌編集委員|
+|2021. 6.30| |          |: |[兵庫県立大学](https://www.u-hyogo.ac.jp/) 情報アクセスシステム 非常勤講師|
 
 
 ### プログラム委員

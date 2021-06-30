@@ -51,9 +51,9 @@ h1:        'Tomohiro Manabe'
 |2007. 4.28|-|2009.12.19|: |Member of [Yukidaruma-pro](http://yukidarumapro.jpn.org/), an official filmmaking circle of Kyoto University<br />YouTube: [yukidarumapro - YouTube](http://www.youtube.com/user/yukidarumapro)|
 |2011. 8.25|-|2011.9.20|: |Intern at former Cyber Solution Laboratory of [Nippon Telegraph and Telephone Corporation](http://www.ntt.co.jp/about_e/corporatedata.html)<br/>Theme: Information extraction from web contents|
 |2011. 9.27|-|2011.9.29|: |Student of Kyoto University Summer Design School 2011<br/>Theme: Designing an HTML editor - not for the image conscious|
-|2011.10. 4|-|2012. 1.31|: |Teaching assistant of Hardware and Software Laboratory Project 2, a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2011.10. 4|-|2012. 1.31|: |Teaching assistant of Hardware and Software Laboratory Project 2 at [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
 |2012. 5   |-|2012. 9   |: |Staff of Kyoto University Summer Design School 2012|
-|2012.10. 2|-|2013. 1.23|: |Teaching assistant of Hardware and Software Laboratory Project 2, a course of [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
+|2012.10. 2|-|2013. 1.23|: |Teaching assistant of Hardware and Software Laboratory Project 2 at [Faculty of Engineering](http://www.t.kyoto-u.ac.jp/en) of [Kyoto University](http://www.kyoto-u.ac.jp/en/)|
 |2013. 3.11|-|2016. 3.31|: |Student member of [the Database Society of Japan](http://www.dbsj.org/en/)|
 |2013. 6.28|-|2016. 3.31|: |Obtained JSPS KAKENHI (Grants-in-Aid for JSPS Fellows), 3,300,000 yen in total<br />Research Project: A Study on Block-Level Web Search (Grant Number: 13J06384)|
 |2014. 3.15|-|2014. 3.16|: |Guest lecturer of Digital Design Workshop at Kyoto University Spring Design School 2014|
@@ -65,6 +65,7 @@ h1:        'Tomohiro Manabe'
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) OpenLiveQ-2 task|
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
 |2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
+|2021. 6.30| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
 
 
 ### Program Committee Member
