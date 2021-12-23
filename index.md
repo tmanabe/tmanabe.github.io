@@ -7,7 +7,7 @@ h1:        'Tomohiro Manabe'
 
 *   [Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)
     *   Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyodaku, Tokyo 102-8282 Japan
-*   [ZOZO Technologies, Inc.](https://tech.zozo.com/en/)
+*   [ZOZO, Inc.](https://corp.zozo.com/en/)
     *   1-15-16 Midoricho, Inageku, Chibashi, Chiba 263-0023 Japan
 *   Doctor of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2016)
 *   Master of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2013)
@@ -43,7 +43,8 @@ h1:        'Tomohiro Manabe'
 |2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
 |2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
 |2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)|
-|2020.11. 1|-|current   |: |[ZOZO Technologies, Inc.](https://tech.zozo.com/en/)|
+|2020.11. 1|-|2021. 9.30|: |[ZOZO Technologies, Inc.](https://tech.zozo.com/en/)|
+|2021.10. 1|-|current   |: |[ZOZO, Inc.](https://corp.zozo.com/en/)|
 
 
 ## Other Activities
