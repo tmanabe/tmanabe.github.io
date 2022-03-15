@@ -47,3 +47,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />_Yahoo! Japan Selected Papers in 2020_, p. 8, 2021.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://randd.yahoo.co.jp/jp/topics/72)
 *    {{ site.data.papers.ecir21 }}
+*   <u>真鍋知博</u>：<br />“[Elasticsearch LTRプラグインと特徴量キャッシュ機能の基本](https://techblog.zozo.com/entry/basics-of-elasticsearch-ltr-plugin-and-feature-score-cache)”，<br />_ZOZO TECH BLOG_, March 2022.
