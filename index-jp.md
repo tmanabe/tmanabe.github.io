@@ -74,6 +74,8 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2021. 3   |-|2021. 6   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) [予算申請書作成メンタリング](https://www.ipsj.or.jp/education/mentoring.html) メンター|
 |2021. 4   |-|2023. 3   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) 会誌編集委員|
 |2021. 6.30| |          |: |[兵庫県立大学](https://www.u-hyogo.ac.jp/) 情報アクセスシステム 非常勤講師|
+|2022. 5   | |          |: |[情報処理学会](https://www.ipsj.or.jp/index.html) [予算申請書作成メンタリング](https://www.ipsj.or.jp/education/mentoring.html) メンター|
+|2022. 6.23| |          |: |[兵庫県立大学](https://www.u-hyogo.ac.jp/) 情報アクセスシステム 非常勤講師|
 
 
 ### プログラム委員
@@ -82,6 +84,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 * NTCIR-14 (post-conference proceedings)
 * SIGIR 2020 (short paper)
 * SIGIR 2021 (short paper)
+* SIGIR 2022 (long paper)
 
 
 ## 受賞

@@ -67,6 +67,7 @@ h1:        'Tomohiro Manabe'
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
 |2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
 |2021. 6.30| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
+|2022. 6.23| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
 
 
 ### Program Committee Member
@@ -75,6 +76,7 @@ h1:        'Tomohiro Manabe'
 * NTCIR-14 (post-conference proceedings)
 * SIGIR 2020 (short paper)
 * SIGIR 2021 (short paper)
+* SIGIR 2022 (long paper)
 
 
 ## Links
