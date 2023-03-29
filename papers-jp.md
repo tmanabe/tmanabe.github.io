@@ -34,7 +34,6 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   Makoto P. Kato, <u>Tomohiro Manabe</u>, Sumio Fujita, Akiomi Nishida, and Takehiro Yamamoto.<br />
     Challenges of Multileaved Comparison in Practice: Lessons from NTCIR-13 OpenLiveQ Task.<br />_Yahoo! Japan Selected Papers in 2018_, p. 16, 2019.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://research-lab.yahoo.co.jp/topics/20190301_yjselectedpapers2018.html)
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、およびプログラム”，<br />特開2019-067226, 2019/04/25.
 *    {{ site.data.papers.ntcir190 }}
 *    {{ site.data.papers.ntcir191 }}
 *    {{ site.data.papers.ntcir192 }}
@@ -42,13 +41,16 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：<br />“[商品検索におけるゼロマッチ解消のためのデータセット構築の検討](https://proceedings-of-deim.github.io/DEIM2020/papers/C2-5.pdf)”，<br />In _DEIM_, C2-5, 2020.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特許第6723650号, 2020/07/15.
 *    {{ site.data.papers.cikm20 }}
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム、および情報処理方法”，<br />特開2020-177515, 2020/10/29.
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特許第6789860号, 2020/11/06.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特許第6789860号, 2020/11/25.
 *   Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />_Yahoo! Japan Selected Papers in 2020_, p. 8, 2021.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://randd.yahoo.co.jp/jp/topics/72)
 *    {{ site.data.papers.ecir21 }}
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、およびプログラム”，<br />特許第6980479号, 2021/12/15.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、及び情報処理プログラム”，<br />特開2022-24449, 2022/02/09.
 *   <u>真鍋知博</u>：<br />“[Elasticsearch LTRプラグインと特徴量キャッシュ機能の基本](https://techblog.zozo.com/entry/basics-of-elasticsearch-ltr-plugin-and-feature-score-cache)”，<br />_ZOZO TECH BLOG_, March 2022.
 *   “[Solrプラグイン開発チュートリアル](https://github.com/yahoojapan/solr-plugin-samples/blob/main/docs/index.md)”.
 *   “[情報検索100本ノック](https://github.com/ir100/ir100/blob/main/README.md)”.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>ほか4名）：<br />“情報処理装置、情報処理方法および情報処理プログラム”，<br />特許第7212728号, 2023/1/25.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム及び情報処理方法”，<br />特開2023-13646, 2023/1/26.
 *   <u>真鍋知博</u>：<br />“[Apache Solrプラグインの開発方法（チュートリアルとデモをOSS公開しました）](https://techblog.yahoo.co.jp/entry/2023021330413288/)”，<br />_Yahoo! JAPAN Tech Blog_, February 2023.
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム、および情報処理方法”，<br />特許第7231468号, 2023/3/1.
