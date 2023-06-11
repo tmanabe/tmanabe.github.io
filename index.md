@@ -43,7 +43,7 @@ h1:        'Tomohiro Manabe'
 |2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
 |2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
 |2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)|
-|2020.11. 1|-|2021. 9.30|: |[ZOZO Technologies, Inc.](https://tech.zozo.com/en/)|
+|2020.11. 1|-|2021. 9.30|: |ZOZO Technologies, Inc.|
 |2021.10. 1|-|current   |: |[ZOZO, Inc.](https://corp.zozo.com/en/)|
 
 
@@ -68,6 +68,7 @@ h1:        'Tomohiro Manabe'
 |2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
 |2021. 6.30| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
 |2022. 6.23| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
+|2023. 6.29| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
 
 
 ### Program Committee Member
