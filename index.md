@@ -78,6 +78,7 @@ h1:        'Tomohiro Manabe'
 * SIGIR 2020 (short paper)
 * SIGIR 2021 (short paper)
 * SIGIR 2022 (long paper)
+* CIKM 2023 (applied research papers)
 
 
 ## Links

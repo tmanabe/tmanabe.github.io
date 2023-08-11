@@ -86,6 +86,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 * SIGIR 2020 (short paper)
 * SIGIR 2021 (short paper)
 * SIGIR 2022 (long paper)
+* CIKM 2023 (applied research papers)
 
 
 ## 受賞

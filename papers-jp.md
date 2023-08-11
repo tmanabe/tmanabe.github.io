@@ -40,17 +40,24 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *    {{ site.data.papers.ntcir193 }}
 *   雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：<br />“[商品検索におけるゼロマッチ解消のためのデータセット構築の検討](https://proceedings-of-deim.github.io/DEIM2020/papers/C2-5.pdf)”，<br />In _DEIM_, C2-5, 2020.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“抽出装置、抽出方法、及び抽出プログラム”，<br />特許第6723650号, 2020/07/15.
+    * 適合するドキュメントを供給すべきクエリを抽出する。
 *    {{ site.data.papers.cikm20 }}
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報提供装置、情報提供方法、および情報提供プログラム”，<br />特許第6789860号, 2020/11/25.
+    * スニペットの質を考慮してランキングを行う。
 *   Makoto P. Kato, Akiomi Nishida, <u>Tomohiro Manabe</u>, Sumio Fujita, and Takehiro Yamamoto.<br />What Rankers Can be Statistically Distinguished in Multileaved Comparisons?<br />_Yahoo! Japan Selected Papers in 2020_, p. 8, 2021.
     *   [詳細（Yahoo! Japan研究所ページ内，全文へのリンクを含む）](https://randd.yahoo.co.jp/jp/topics/72)
 *    {{ site.data.papers.ecir21 }}
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、およびプログラム”，<br />特許第6980479号, 2021/12/15.
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、及び情報処理プログラム”，<br />特開2022-24449, 2022/02/09.
+    * クエリ推薦とドキュメントランキングの同時最適化において、推薦クエリにマッチしないドキュメントを優先的にランクインさせる。
 *   <u>真鍋知博</u>：<br />“[Elasticsearch LTRプラグインと特徴量キャッシュ機能の基本](https://techblog.zozo.com/entry/basics-of-elasticsearch-ltr-plugin-and-feature-score-cache)”，<br />_ZOZO TECH BLOG_, March 2022.
 *   “[Solrプラグイン開発チュートリアル](https://github.com/yahoojapan/solr-plugin-samples/blob/main/docs/index.md)”.
 *   “[情報検索100本ノック](https://github.com/ir100/ir100/blob/main/README.md)”.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>ほか4名）：<br />“情報処理装置、情報処理方法および情報処理プログラム”，<br />特許第7212728号, 2023/1/25.
-*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム及び情報処理方法”，<br />特開2023-13646, 2023/1/26.
 *   <u>真鍋知博</u>：<br />“[Apache Solrプラグインの開発方法（チュートリアルとデモをOSS公開しました）](https://techblog.yahoo.co.jp/entry/2023021330413288/)”，<br />_Yahoo! JAPAN Tech Blog_, February 2023.
 *   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム、および情報処理方法”，<br />特許第7231468号, 2023/3/1.
+    * 分散検索において効率的にinterleaving/multileavingを行う。
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理装置、情報処理方法、及び情報処理プログラム”，<br />特許第7309669号, 2023/7/7.
+    * リランキングによって精度と応答速度のバランスを取る。
+*   ヤフー株式会社（発明者：<u>真鍋知博</u>）：<br />“情報処理システム及び情報処理方法”，<br />特許第7326387号, 2023/8/4.
+    * ローカルの検索結果から分散検索の結果を推定する。
+*   <u>真鍋知博</u>，社本秀之，井関洋平，鈴木翔吾：<br />“機械学習による検索ランキング改善ガイド”，<br />_オライリー・ジャパン_, 2023年8月.
