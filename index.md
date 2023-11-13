@@ -5,7 +5,7 @@ next_lang: '<a href="./index-jp.html"><img title="Nihongo-ban" width="56" height
 h1:        'Tomohiro Manabe'
 ---
 
-*   [Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)
+*   [LY Corporation](https://www.lycorp.co.jp/en/)
     *   Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyodaku, Tokyo 102-8282 Japan
 *   [ZOZO, Inc.](https://corp.zozo.com/en/)
     *   1-15-16 Midoricho, Inageku, Chibashi, Chiba 263-0023 Japan
@@ -42,9 +42,10 @@ h1:        'Tomohiro Manabe'
 |2011. 4. 1|-|2013. 3.23|: |Master course student of the same dept.|
 |2013. 4. 1|-|2016. 3.23|: |Doctoral student of the same dept.|
 |2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
-|2016. 4. 1|-|current   |: |[Yahoo Japan Corporation](https://about.yahoo.co.jp/en/info/)|
+|2016. 4. 1|-|2023. 9.30|: |Yahoo Japan Corporation|
 |2020.11. 1|-|2021. 9.30|: |ZOZO Technologies, Inc.|
 |2021.10. 1|-|current   |: |[ZOZO, Inc.](https://corp.zozo.com/en/)|
+|2023.10. 1|-|current   |: |[LY Corporation](https://www.lycorp.co.jp/en/)|
 
 
 ## Other Activities
