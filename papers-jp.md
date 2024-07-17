@@ -62,3 +62,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
     * ローカルの検索結果から分散検索の結果を推定する。
 *   <u>真鍋知博</u>，社本秀之，井関洋平，鈴木翔吾：<br />“機械学習による検索ランキング改善ガイド”，<br />_オライリー・ジャパン_, 2023年8月.
 *   <u>真鍋知博</u>：<br />“[検索のランキング処理を改善するポイント（『機械学習による検索ランキング改善ガイド』を執筆しました）](https://techblog.lycorp.co.jp/ja/20231113a)”，<br />_LINEヤフー Tech Blog_, November 2023.
+*   <u>真鍋知博</u>：<br />“機械学習による検索ランキング改善ガイド”（同名の著書の紹介），<br />In _[The 2nd symposium on Information, Communication, and Knowledge Technologies (ICKT 2024)](https://ickt2024.github.io/)_.

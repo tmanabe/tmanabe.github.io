@@ -67,19 +67,21 @@ h1:        'Tomohiro Manabe'
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) OpenLiveQ-2 task|
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
 |2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
-|2021. 6.30| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
-|2022. 6.23| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
-|2023. 6.29| |          |: |Guest lecturer of Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html)|
 
 
 ### Program Committee Member
 
 * SIGIR 2018 (short papers on applications of IR)
 * NTCIR-14 (post-conference proceedings)
-* SIGIR 2020 (short paper)
-* SIGIR 2021 (short paper)
+* SIGIR 2020, 2021 (short paper)
 * SIGIR 2022 (long paper)
-* CIKM 2023 (applied research papers)
+* CIKM 2023, 2024 (applied research papers)
+
+
+### Guest Lecturer
+
+* Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html) (2021, 2022, 2023, 2024)
+* Data Mining and Machine Learning at [Sizuoka University](https://www.shizuoka.ac.jp/english/) (2024)
 
 
 ## Links
