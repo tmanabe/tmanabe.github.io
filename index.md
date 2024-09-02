@@ -7,8 +7,6 @@ h1:        'Tomohiro Manabe'
 
 *   [LY Corporation](https://www.lycorp.co.jp/en/)
     *   Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3 Kioicho, Chiyodaku, Tokyo 102-8282 Japan
-*   [ZOZO, Inc.](https://corp.zozo.com/en/)
-    *   1-15-16 Midoricho, Inageku, Chibashi, Chiba 263-0023 Japan
 *   Doctor of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2016)
 *   Master of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2013)
 *   Bachelor of Engineering in Informatics and Mathematical Science ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2011)
@@ -44,7 +42,7 @@ h1:        'Tomohiro Manabe'
 |2013. 4. 1|-|2016. 3.31|: |[Research fellow](http://www.jsps.go.jp/english/e-pd/) (DC1) of [the Japan Society for the Promotion of Science](http://www.jsps.go.jp/english/)|
 |2016. 4. 1|-|2023. 9.30|: |Yahoo Japan Corporation|
 |2020.11. 1|-|2021. 9.30|: |ZOZO Technologies, Inc.|
-|2021.10. 1|-|current   |: |[ZOZO, Inc.](https://corp.zozo.com/en/)|
+|2021.10. 1|-|2024. 8.31|: |[ZOZO, Inc.](https://corp.zozo.com/en/)|
 |2023.10. 1|-|current   |: |[LY Corporation](https://www.lycorp.co.jp/en/)|
 
 
@@ -66,7 +64,7 @@ h1:        'Tomohiro Manabe'
 |2018. 2.24|-|current   |: |Member of [Tokyo ACM SIGIR Chapter](http://sigir.jp/)|
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) OpenLiveQ-2 task|
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
-|2021. 4   |-|2023. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
+|2021. 4   |-|2025. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
 
 
 ### Program Committee Member
