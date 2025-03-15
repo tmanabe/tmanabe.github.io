@@ -11,7 +11,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 *   [京都大学](http://www.kyoto-u.ac.jp/)修士（情報学），[社会情報学専攻](http://www.soc.i.kyoto-u.ac.jp/)，2013
 *   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），[情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)，2011
 *   [日本データベース学会](http://www.dbsj.org/) 正会員
-*   [ACM SIGIR 東京支部](http://sigir.jp/) 会員
+*   [ACM SIGIR 東京支部](https://sigirtokyo.github.io/) 会員
 *   [筑波大学](http://www.tsukuba.ac.jp/) [HCIRリサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員
 
 
@@ -40,7 +40,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2011 (H23). 4. 1|-|2013 (H25). 3.23|：|同専攻 修士課程|
 |2013 (H25). 4. 1|-|2016 (H28). 3.23|：|同専攻 博士後期課程|
 |2013 (H25). 4. 1|-|2016 (H28). 3.31|：|[日本学術振興会](http://www.jsps.go.jp/) [特別研究員](http://www.jsps.go.jp/j-pd/) (DC1)|
-|2016 (H28). 4. 1|-|2016 (H28). 4.14|：|[ヤフー株式会社](https://about.yahoo.co.jp/) コーポレート統括本部|
+|2016 (H28). 4. 1|-|2016 (H28). 4.14|：|ヤフー株式会社 コーポレート統括本部|
 |2016 (H28). 4.15|-|2018 (H30). 3.31|：|同社 データ＆サイエンスソリューション統括本部|
 |2018 (H30). 4. 1|-|2019 (H31). 3.31|：|同社 テクノロジーグループ データ＆サイエンスソリューション統括本部|
 |2019 (H31). 4. 1|-|2023  (R5). 9.30|：|同グループ サイエンス統括本部|
@@ -67,7 +67,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2016. 7.20| |          |：|[Linux技術者認定資格](http://www.lpi.or.jp/) [レベル1認定エンジニア](http://www.lpi.or.jp/lpic1/)|
 |2016. 8   |-|2017.12   |：|[NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/index-ja.html) OpenLiveQ タスク オーガナイザ|
 |2016.12.16| |          |：|[応用情報技術者試験](https://www.ipa.go.jp/shiken/kubun/ap.html) 合格|
-|2018. 2.24|-|現在      |:|[ACM SIGIR 東京支部](http://sigir.jp/) 会員|
+|2018. 2.24|-|現在      |:|[ACM SIGIR 東京支部](https://sigirtokyo.github.io/) 会員|
 |2018. 3   |-|2019. 6   |：|[NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/index-ja.html) OpenLiveQ-2 タスク オーガナイザ|
 |2020.10   |-|2025. 9   |: |[筑波大学](http://www.tsukuba.ac.jp/) [「人間中心情報検索・推薦システム」リサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員|
 |2021. 3   |-|2021. 6   |: |[情報処理学会](https://www.ipsj.or.jp/index.html) [予算申請書作成メンタリング](https://www.ipsj.or.jp/education/mentoring.html) メンター|
@@ -95,7 +95,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 |2011. 5.31|：|第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011)<br />優秀論文賞および学生奨励賞<br />（<u>真鍋知博</u>，田島敬史：“Webページ中のノード間の論理的関係の発見”による）|
 |2011. 9.29|：|京都大学サマーデザインスクール2011 審査員特別賞<br />（“ホームページの外見よりも中身を整える方法”グループ全体として）|
 |2020. 3. 4|：|第12回データ工学と情報マネジメントに関するフォーラム (DEIM2020)<br />[オンラインプレゼンテーション賞](https://db-event.jpn.org/deim2020/post/awards.html)（指導学生による受賞）<br />（雨宮佑基，<u>真鍋知博</u>，藤田澄男，酒井哲也：“商品検索におけるゼロマッチ解消のためのデータセット構築の検討”による）|
-|2021.10. 1|:|ヤフー株式会社 第11代黒帯～検索エンジン～<br/>（各領域において突出した専門性を持つ社員を任命し，社内外における活動を会社として支援する制度）<br/>参考：[たった1％の狭き門。黒帯制度とは？ - linotice](https://about.yahoo.co.jp/hr/linotice/20170119.html)|
+|2021.10. 1|:|ヤフー株式会社 第11代黒帯～検索エンジン～<br/>（各領域において突出した専門性を持つ社員を任命し，社内外における活動を会社として支援する制度）|
 |2022.10. 1|:|ヤフー株式会社 第12代黒帯～検索エンジン～|
 
 

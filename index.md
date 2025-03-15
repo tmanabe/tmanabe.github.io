@@ -11,7 +11,7 @@ h1:        'Tomohiro Manabe'
 *   Master of Informatics in Social Informatics ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2013)
 *   Bachelor of Engineering in Informatics and Mathematical Science ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2011)
 *   Member of [the Database Society of Japan](http://www.dbsj.org/en/)
-*   Member of [Tokyo ACM SIGIR Chapter](http://sigir.jp/)
+*   Member of [Tokyo ACM SIGIR Chapter](https://sigirtokyo.github.io/)
 *   Member of [the HCIR Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)
 
 
@@ -61,7 +61,7 @@ h1:        'Tomohiro Manabe'
 |2016. 5.17| |          |: |TOEIC IP score 830|
 |2016. 7.20| |          |: |[Linux Professional Institute](https://www.lpi.org/) [Certified Level 1](https://www.lpi.org/certification/get-certified-lpi/lpic-1-linux-server-professional/)|
 |2016. 8   |-|2017.12   |: |Organizer of the [NTCIR-13](http://research.nii.ac.jp/ntcir/ntcir-13/) OpenLiveQ task|
-|2018. 2.24|-|current   |: |Member of [Tokyo ACM SIGIR Chapter](http://sigir.jp/)|
+|2018. 2.24|-|current   |: |Member of [Tokyo ACM SIGIR Chapter](https://sigirtokyo.github.io/)|
 |2018. 3   |-|2019. 6   |: |Organizer of the [NTCIR-14](http://research.nii.ac.jp/ntcir/ntcir-14/) OpenLiveQ-2 task|
 |2020.10   |-|2025. 9   |: |Member of [the "Human-Centred Information Retrieval and Recommender Systems" Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)|
 |2021. 4   |-|2025. 3   |: |Member of Editorial Committee of IPSJ Magazine at the [Information Processing Society of Japan](https://www.ipsj.or.jp/english/index.html)|
