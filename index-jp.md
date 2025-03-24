@@ -111,6 +111,7 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 ## リンク
 
 *   [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manabe:Tomohiro)
+*   [Google Scholar](https://scholar.google.co.jp/citations?user=TZnw0x8AAAAJ)
 *   [GitHub](https://github.com/tmanabe)
 *   [Qiita](http://qiita.com/tomanabe)
 *   [Facebook](https://www.facebook.com/manabe.pdx)

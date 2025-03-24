@@ -85,5 +85,6 @@ h1:        'Tomohiro Manabe'
 ## Links
 
 *   [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manabe:Tomohiro)
+*   [Google Scholar](https://scholar.google.co.jp/citations?user=TZnw0x8AAAAJ)
 *   [GitHub](https://github.com/tmanabe)
 *   [Facebook](https://www.facebook.com/manabe.pdx)
