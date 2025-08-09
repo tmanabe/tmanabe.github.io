@@ -12,7 +12,6 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 *   [京都大学](http://www.kyoto-u.ac.jp/)学士（工学），[情報学科](http://www.s-im.t.kyoto-u.ac.jp/ja)，2011
 *   [日本データベース学会](http://www.dbsj.org/) 正会員
 *   [ACM SIGIR 東京支部](https://sigirtokyo.github.io/) 会員
-*   [筑波大学](http://www.tsukuba.ac.jp/) [HCIRリサーチユニット](https://hcir.slis.tsukuba.ac.jp/) 協力構成員
 
 
 ## 研究テーマと主要論文
@@ -77,17 +76,18 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 
 ### プログラム委員
 
-* SIGIR 2018 (short papers on applications of IR)
-* NTCIR-14 (post-conference proceedings)
+* NTCIR-13, 14
+* SIGIR 2018 (short paper on applications of IR)
 * SIGIR 2020, 2021 (short paper)
 * SIGIR 2022 (long paper)
 * CIKM 2023, 2024 (applied research papers)
+* CIKM 2025 (full research papers)
 
 
 ### 非常勤講師
 
-* [兵庫県立大学](https://www.u-hyogo.ac.jp/) 情報アクセスシステム (2021, 2022, 2023, 2024)
-* [静岡大学](https://www.shizuoka.ac.jp/) データマイニングと機械学習 (2024)
+* [兵庫県立大学](https://www.u-hyogo.ac.jp/) 情報アクセスシステム (2021-2025)
+* [静岡大学](https://www.shizuoka.ac.jp/) データマイニングと機械学習 (2024, 2025)
 
 
 ## 受賞

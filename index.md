@@ -12,7 +12,6 @@ h1:        'Tomohiro Manabe'
 *   Bachelor of Engineering in Informatics and Mathematical Science ([Kyoto University](http://www.kyoto-u.ac.jp/en/), 2011)
 *   Member of [the Database Society of Japan](http://www.dbsj.org/en/)
 *   Member of [Tokyo ACM SIGIR Chapter](https://sigirtokyo.github.io/)
-*   Member of [the HCIR Research Unit](https://hcir.slis.tsukuba.ac.jp/) at [University of Tsukuba](http://www.tsukuba.ac.jp/en/)
 
 
 ## Research Interests and Selected Publications
@@ -69,17 +68,18 @@ h1:        'Tomohiro Manabe'
 
 ### Program Committee Member
 
-* SIGIR 2018 (short papers on applications of IR)
-* NTCIR-14 (post-conference proceedings)
+* NTCIR-13, 14
+* SIGIR 2018 (short paper on applications of IR)
 * SIGIR 2020, 2021 (short paper)
 * SIGIR 2022 (long paper)
 * CIKM 2023, 2024 (applied research papers)
+* CIKM 2025 (full research papers)
 
 
 ### Guest Lecturer
 
-* Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html) (2021, 2022, 2023, 2024)
-* Data Mining and Machine Learning at [Sizuoka University](https://www.shizuoka.ac.jp/english/) (2024)
+* Information Access System at [University of Hyogo](https://www.u-hyogo.ac.jp/english/index.html) (2021-2025)
+* Data Mining and Machine Learning at [Sizuoka University](https://www.shizuoka.ac.jp/english/) (2024, 2025)
 
 
 ## Links
