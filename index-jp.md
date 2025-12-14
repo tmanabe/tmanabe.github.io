@@ -14,7 +14,12 @@ h1:        '真鍋 知博 (Manabe, Tomohiro)'
 *   [ACM SIGIR 東京支部](https://sigirtokyo.github.io/) 会員
 
 
-## 研究テーマと主要論文
+## 著書
+*   {{ site.data.books.oreilly23 }}
+*   {{ site.data.books.gihyo26 }}
+
+
+## （過去の）研究テーマと主要論文
 
 ### 木構造文書のノード間の関係
 *   {{ site.data.papers.vldb15 }}

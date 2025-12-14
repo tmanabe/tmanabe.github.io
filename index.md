@@ -14,7 +14,7 @@ h1:        'Tomohiro Manabe'
 *   Member of [Tokyo ACM SIGIR Chapter](https://sigirtokyo.github.io/)
 
 
-## Research Interests and Selected Publications
+## (Past) Research Interests and Selected Publications
 
 ### Logical structure of tree-structured documents
 *   {{ site.data.papers.vldb15 }}
