@@ -66,3 +66,4 @@ h1:     '真鍋 知博 (Manabe, Tomohiro) > 全ての出版物 (All Publications
 *   ソフトバンクグループ株式会社（発明者：<u>真鍋知博</u>）：特開2025-48086, 2025/4/3.
     * ウェブサービスの使用例を収集し、生成AIを訓練する。
 *   {{ site.data.books.gihyo26 }}
+*   <u>真鍋知博</u>：“[直感的な検索を目指して（『ベクトル検索実践入門』を執筆しました）](https://techblog.lycorp.co.jp/ja/20260309c)”，_LINEヤフー Tech Blog_, March 2026.
